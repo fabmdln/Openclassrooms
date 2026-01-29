@@ -1,7 +1,4 @@
-# Projet 3 : Créez et utilisez une base de données immobilière avec SQL
-
-## &#128203; Scénario
-Requêtez une base de données avec SQL
+# Projet 3 : Requêtez une base de données avec SQL
 
 ## &#127919; Objectifs
 * Aidez une entreprise de l'assurance à mieux accompagner ses clients en analysant le marché des assurances habitation
