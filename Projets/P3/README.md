@@ -15,10 +15,12 @@ Requêtez une base de données avec SQL
 * Créer un schéma d'une base de données
 * Rédiger des scripts simples en SQL pour aider à la prise de décision business
 
-## Modèle de conception des données
+## Dictionnaire des données
+<img src='./images/dico_donnees.png' />
 
-
-## Modèle relationnel des données
-
+## Schéma relationnel des données
+<img src='./images/schema_relationnel.png' />
 
 ## Base de données implémentée dans SQLiteStudio
+<img src='./images/tbl_contrat.png' />
+<img src='./images/tbl_region.png' />
