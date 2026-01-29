@@ -7,7 +7,7 @@
 * **Power Query** : préparation des données.
 * **Visual studio Code**
 * Pandas : importation, préparation et vérification des données.
-* Pandas et Matplolib : réalisation des analyses et visualisations.implémentation de la base et requêtes.
+* Pandas et Matplolib/seaborn : réalisation des analyses et visualisations.
 
 ## &#127891; Compétences acquises
 * Rédiger et présenter une méthodologie d'exploration et d'analyse des données.
