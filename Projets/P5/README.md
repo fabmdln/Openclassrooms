@@ -4,8 +4,7 @@
 * À partir des données de votre agence immobilière, concevez et créez une base de données, puis faites des requêtes SQL pour extraire certaines données en respect du RGPD
 
 ## &#128295; Outils utilisés
-* Excel et Power Query : préparation des données.
-* draw.io : modèle de conception des données.
+* Power Query : préparation des données.
 * SQL Power Architect : modèle relationnel des données.
  *SQLiteStudio : implémentation de la base et requêtes
 
