@@ -18,4 +18,4 @@
 <img src='./images/schema_relationnel.JPG' />
 <img src='./images/bdd.JPG' />
 ## Exemple de requête
-<img src='./images/requete.jpg' />
+<img src='./images/requete.JPG' />
