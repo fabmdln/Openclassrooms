@@ -1,0 +1,3126 @@
+﻿Id_region,id_codedep_codecommune,reg_nom
+1,001103,Auvergne-Rhône-Alpes
+2,001004,Auvergne-Rhône-Alpes
+3,006004,Provence-Alpes-Côte d'Azur
+4,001014,Auvergne-Rhône-Alpes
+5,001030,Auvergne-Rhône-Alpes
+6,001031,Auvergne-Rhône-Alpes
+7,001033,Auvergne-Rhône-Alpes
+8,001034,Auvergne-Rhône-Alpes
+9,001060,Auvergne-Rhône-Alpes
+10,001071,Auvergne-Rhône-Alpes
+11,001079,Auvergne-Rhône-Alpes
+12,001109,Auvergne-Rhône-Alpes
+13,001135,Auvergne-Rhône-Alpes
+14,001138,Auvergne-Rhône-Alpes
+15,001142,Auvergne-Rhône-Alpes
+16,001143,Auvergne-Rhône-Alpes
+17,001148,Auvergne-Rhône-Alpes
+18,001153,Auvergne-Rhône-Alpes
+19,001158,Auvergne-Rhône-Alpes
+20,001160,Auvergne-Rhône-Alpes
+21,001173,Auvergne-Rhône-Alpes
+22,006088,Provence-Alpes-Côte d'Azur
+23,001185,Auvergne-Rhône-Alpes
+24,001187,Auvergne-Rhône-Alpes
+25,001192,Auvergne-Rhône-Alpes
+26,001194,Auvergne-Rhône-Alpes
+27,001199,Auvergne-Rhône-Alpes
+28,001202,Auvergne-Rhône-Alpes
+29,001204,Auvergne-Rhône-Alpes
+30,001210,Auvergne-Rhône-Alpes
+31,001224,Auvergne-Rhône-Alpes
+32,001240,Auvergne-Rhône-Alpes
+33,001244,Auvergne-Rhône-Alpes
+34,001247,Auvergne-Rhône-Alpes
+35,001248,Auvergne-Rhône-Alpes
+36,001258,Auvergne-Rhône-Alpes
+37,001262,Auvergne-Rhône-Alpes
+38,001269,Auvergne-Rhône-Alpes
+39,001281,Auvergne-Rhône-Alpes
+40,001283,Auvergne-Rhône-Alpes
+41,001288,Auvergne-Rhône-Alpes
+42,001313,Auvergne-Rhône-Alpes
+43,001345,Auvergne-Rhône-Alpes
+44,001350,Auvergne-Rhône-Alpes
+45,001354,Auvergne-Rhône-Alpes
+46,001357,Auvergne-Rhône-Alpes
+47,001363,Auvergne-Rhône-Alpes
+48,001390,Auvergne-Rhône-Alpes
+49,001396,Auvergne-Rhône-Alpes
+50,001399,Auvergne-Rhône-Alpes
+51,001401,Auvergne-Rhône-Alpes
+52,001419,Auvergne-Rhône-Alpes
+53,001435,Auvergne-Rhône-Alpes
+54,001436,Auvergne-Rhône-Alpes
+55,001443,Auvergne-Rhône-Alpes
+56,001450,Auvergne-Rhône-Alpes
+57,002064,Hauts-de-France
+58,006123,Provence-Alpes-Côte d'Azur
+59,002168,Hauts-de-France
+60,002173,Hauts-de-France
+61,002201,Hauts-de-France
+62,013005,Provence-Alpes-Côte d'Azur
+63,002226,Hauts-de-France
+64,013028,Provence-Alpes-Côte d'Azur
+65,002304,Hauts-de-France
+66,002305,Hauts-de-France
+67,013208,Provence-Alpes-Côte d'Azur
+68,002318,Hauts-de-France
+69,013212,Provence-Alpes-Côte d'Azur
+70,002408,Hauts-de-France
+71,002410,Hauts-de-France
+72,014338,Normandie
+73,014366,Normandie
+74,017300,Nouvelle-Aquitaine
+75,002537,Hauts-de-France
+76,025056,Bourgogne-Franche-Comté
+77,029232,Bretagne
+78,029260,Bretagne
+79,031555,Occitanie
+80,002680,Hauts-de-France
+81,002691,Hauts-de-France
+82,002722,Hauts-de-France
+83,002738,Hauts-de-France
+84,002755,Hauts-de-France
+85,002758,Hauts-de-France
+86,002795,Hauts-de-France
+87,002810,Hauts-de-France
+88,033063,Nouvelle-Aquitaine
+89,003095,Auvergne-Rhône-Alpes
+90,003190,Auvergne-Rhône-Alpes
+91,003310,Auvergne-Rhône-Alpes
+92,033097,Nouvelle-Aquitaine
+93,033449,Nouvelle-Aquitaine
+94,003321,Auvergne-Rhône-Alpes
+95,004006,Provence-Alpes-Côte d'Azur
+96,034145,Occitanie
+97,004019,Provence-Alpes-Côte d'Azur
+98,004022,Provence-Alpes-Côte d'Azur
+99,004039,Provence-Alpes-Côte d'Azur
+100,034150,Occitanie
+101,004049,Provence-Alpes-Côte d'Azur
+102,034199,Occitanie
+103,004069,Provence-Alpes-Côte d'Azur
+104,004070,Provence-Alpes-Côte d'Azur
+105,004073,Provence-Alpes-Côte d'Azur
+106,037156,Centre-Val de Loire
+107,004079,Provence-Alpes-Côte d'Azur
+108,037261,Centre-Val de Loire
+109,004086,Provence-Alpes-Côte d'Azur
+110,004088,Provence-Alpes-Côte d'Azur
+111,004094,Provence-Alpes-Côte d'Azur
+112,004096,Provence-Alpes-Côte d'Azur
+113,004102,Provence-Alpes-Côte d'Azur
+114,004112,Provence-Alpes-Côte d'Azur
+115,004126,Provence-Alpes-Côte d'Azur
+116,004139,Provence-Alpes-Côte d'Azur
+117,004143,Provence-Alpes-Côte d'Azur
+118,004145,Provence-Alpes-Côte d'Azur
+119,004151,Provence-Alpes-Côte d'Azur
+120,004166,Provence-Alpes-Côte d'Azur
+121,004176,Provence-Alpes-Côte d'Azur
+122,004178,Provence-Alpes-Côte d'Azur
+123,038185,Auvergne-Rhône-Alpes
+124,004189,Provence-Alpes-Côte d'Azur
+125,004197,Provence-Alpes-Côte d'Azur
+126,004203,Provence-Alpes-Côte d'Azur
+127,004205,Provence-Alpes-Côte d'Azur
+128,004209,Provence-Alpes-Côte d'Azur
+129,004226,Provence-Alpes-Côte d'Azur
+130,004230,Provence-Alpes-Côte d'Azur
+131,004242,Provence-Alpes-Côte d'Azur
+132,004244,Provence-Alpes-Côte d'Azur
+133,004245,Provence-Alpes-Côte d'Azur
+134,005001,Provence-Alpes-Côte d'Azur
+135,005004,Provence-Alpes-Côte d'Azur
+136,005006,Provence-Alpes-Côte d'Azur
+137,005017,Provence-Alpes-Côte d'Azur
+138,005023,Provence-Alpes-Côte d'Azur
+139,005040,Provence-Alpes-Côte d'Azur
+140,005046,Provence-Alpes-Côte d'Azur
+141,005061,Provence-Alpes-Côte d'Azur
+142,005064,Provence-Alpes-Côte d'Azur
+143,005065,Provence-Alpes-Côte d'Azur
+144,005070,Provence-Alpes-Côte d'Azur
+145,005072,Provence-Alpes-Côte d'Azur
+146,005079,Provence-Alpes-Côte d'Azur
+147,005084,Provence-Alpes-Côte d'Azur
+148,005085,Provence-Alpes-Côte d'Azur
+149,005093,Provence-Alpes-Côte d'Azur
+150,005096,Provence-Alpes-Côte d'Azur
+151,005098,Provence-Alpes-Côte d'Azur
+152,005101,Provence-Alpes-Côte d'Azur
+153,005110,Provence-Alpes-Côte d'Azur
+154,005111,Provence-Alpes-Côte d'Azur
+155,005119,Provence-Alpes-Côte d'Azur
+156,005132,Provence-Alpes-Côte d'Azur
+157,005133,Provence-Alpes-Côte d'Azur
+158,005139,Provence-Alpes-Côte d'Azur
+159,005153,Provence-Alpes-Côte d'Azur
+160,005156,Provence-Alpes-Côte d'Azur
+161,005161,Provence-Alpes-Côte d'Azur
+162,005164,Provence-Alpes-Côte d'Azur
+163,005166,Provence-Alpes-Côte d'Azur
+164,005177,Provence-Alpes-Côte d'Azur
+165,005179,Provence-Alpes-Côte d'Azur
+166,006003,Provence-Alpes-Côte d'Azur
+167,006006,Provence-Alpes-Côte d'Azur
+168,006010,Provence-Alpes-Côte d'Azur
+169,006011,Provence-Alpes-Côte d'Azur
+170,006012,Provence-Alpes-Côte d'Azur
+171,006013,Provence-Alpes-Côte d'Azur
+172,006014,Provence-Alpes-Côte d'Azur
+173,040266,Nouvelle-Aquitaine
+174,006015,Provence-Alpes-Côte d'Azur
+175,006016,Provence-Alpes-Côte d'Azur
+176,006018,Provence-Alpes-Côte d'Azur
+177,006019,Provence-Alpes-Côte d'Azur
+178,006020,Provence-Alpes-Côte d'Azur
+179,040328,Nouvelle-Aquitaine
+180,006023,Provence-Alpes-Côte d'Azur
+181,006025,Provence-Alpes-Côte d'Azur
+182,006027,Provence-Alpes-Côte d'Azur
+183,006029,Provence-Alpes-Côte d'Azur
+184,006030,Provence-Alpes-Côte d'Azur
+185,006031,Provence-Alpes-Côte d'Azur
+186,006032,Provence-Alpes-Côte d'Azur
+187,044143,Pays de la Loire
+188,006033,Provence-Alpes-Côte d'Azur
+189,006035,Provence-Alpes-Côte d'Azur
+190,006036,Provence-Alpes-Côte d'Azur
+191,006042,Provence-Alpes-Côte d'Azur
+192,006044,Provence-Alpes-Côte d'Azur
+193,006046,Provence-Alpes-Côte d'Azur
+194,006048,Provence-Alpes-Côte d'Azur
+195,006054,Provence-Alpes-Côte d'Azur
+196,006057,Provence-Alpes-Côte d'Azur
+197,006059,Provence-Alpes-Côte d'Azur
+198,006060,Provence-Alpes-Côte d'Azur
+199,006065,Provence-Alpes-Côte d'Azur
+200,006066,Provence-Alpes-Côte d'Azur
+201,006067,Provence-Alpes-Côte d'Azur
+202,006069,Provence-Alpes-Côte d'Azur
+203,044184,Pays de la Loire
+204,006070,Provence-Alpes-Côte d'Azur
+205,006071,Provence-Alpes-Côte d'Azur
+206,006073,Provence-Alpes-Côte d'Azur
+207,006074,Provence-Alpes-Côte d'Azur
+208,006075,Provence-Alpes-Côte d'Azur
+209,006077,Provence-Alpes-Côte d'Azur
+210,006079,Provence-Alpes-Côte d'Azur
+211,006083,Provence-Alpes-Côte d'Azur
+212,006084,Provence-Alpes-Côte d'Azur
+213,006085,Provence-Alpes-Côte d'Azur
+214,006086,Provence-Alpes-Côte d'Azur
+215,006090,Provence-Alpes-Côte d'Azur
+216,006091,Provence-Alpes-Côte d'Azur
+217,006092,Provence-Alpes-Côte d'Azur
+218,006094,Provence-Alpes-Côte d'Azur
+219,006095,Provence-Alpes-Côte d'Azur
+220,006099,Provence-Alpes-Côte d'Azur
+221,006102,Provence-Alpes-Côte d'Azur
+222,006103,Provence-Alpes-Côte d'Azur
+223,006104,Provence-Alpes-Côte d'Azur
+224,006108,Provence-Alpes-Côte d'Azur
+225,006109,Provence-Alpes-Côte d'Azur
+226,006113,Provence-Alpes-Côte d'Azur
+227,006114,Provence-Alpes-Côte d'Azur
+228,006118,Provence-Alpes-Côte d'Azur
+229,006120,Provence-Alpes-Côte d'Azur
+230,006121,Provence-Alpes-Côte d'Azur
+231,051230,Grand Est
+232,006126,Provence-Alpes-Côte d'Azur
+233,006127,Provence-Alpes-Côte d'Azur
+234,006128,Provence-Alpes-Côte d'Azur
+235,006130,Provence-Alpes-Côte d'Azur
+236,006132,Provence-Alpes-Côte d'Azur
+237,006136,Provence-Alpes-Côte d'Azur
+238,006138,Provence-Alpes-Côte d'Azur
+239,006141,Provence-Alpes-Côte d'Azur
+240,006149,Provence-Alpes-Côte d'Azur
+241,006150,Provence-Alpes-Côte d'Azur
+242,006151,Provence-Alpes-Côte d'Azur
+243,006152,Provence-Alpes-Côte d'Azur
+244,006153,Provence-Alpes-Côte d'Azur
+245,006155,Provence-Alpes-Côte d'Azur
+246,006157,Provence-Alpes-Côte d'Azur
+247,006158,Provence-Alpes-Côte d'Azur
+248,006159,Provence-Alpes-Côte d'Azur
+249,054395,Grand Est
+250,006161,Provence-Alpes-Côte d'Azur
+251,006162,Provence-Alpes-Côte d'Azur
+252,006163,Provence-Alpes-Côte d'Azur
+253,007010,Auvergne-Rhône-Alpes
+254,007019,Auvergne-Rhône-Alpes
+255,007042,Auvergne-Rhône-Alpes
+256,007055,Auvergne-Rhône-Alpes
+257,007078,Auvergne-Rhône-Alpes
+258,007089,Auvergne-Rhône-Alpes
+259,007100,Auvergne-Rhône-Alpes
+260,007102,Auvergne-Rhône-Alpes
+261,056161,Bretagne
+262,058194,Bourgogne-Franche-Comté
+263,007116,Auvergne-Rhône-Alpes
+264,007131,Auvergne-Rhône-Alpes
+265,059512,Hauts-de-France
+266,007186,Auvergne-Rhône-Alpes
+267,060057,Hauts-de-France
+268,007201,Auvergne-Rhône-Alpes
+269,060155,Hauts-de-France
+270,060159,Hauts-de-France
+271,007240,Auvergne-Rhône-Alpes
+272,007245,Auvergne-Rhône-Alpes
+273,007255,Auvergne-Rhône-Alpes
+274,007259,Auvergne-Rhône-Alpes
+275,007268,Auvergne-Rhône-Alpes
+276,007279,Auvergne-Rhône-Alpes
+277,007281,Auvergne-Rhône-Alpes
+278,060524,Hauts-de-France
+279,069149,Auvergne-Rhône-Alpes
+280,007296,Auvergne-Rhône-Alpes
+281,007304,Auvergne-Rhône-Alpes
+282,007308,Auvergne-Rhône-Alpes
+283,069384,Auvergne-Rhône-Alpes
+284,007324,Auvergne-Rhône-Alpes
+285,007330,Auvergne-Rhône-Alpes
+286,007331,Auvergne-Rhône-Alpes
+287,007346,Auvergne-Rhône-Alpes
+288,007349,Auvergne-Rhône-Alpes
+289,008043,Grand Est
+290,074119,Auvergne-Rhône-Alpes
+291,074236,Auvergne-Rhône-Alpes
+292,008053,Grand Est
+293,074238,Auvergne-Rhône-Alpes
+294,074278,Auvergne-Rhône-Alpes
+295,075105,Ile-de-France
+296,008090,Grand Est
+297,008105,Grand Est
+298,008190,Grand Est
+299,075110,Ile-de-France
+300,008362,Grand Est
+301,008385,Grand Est
+302,008409,Grand Est
+303,075111,Ile-de-France
+304,009032,Occitanie
+305,009105,Occitanie
+306,009122,Occitanie
+307,009160,Occitanie
+308,009176,Occitanie
+309,009194,Occitanie
+310,009225,Occitanie
+311,009265,Occitanie
+312,009282,Occitanie
+313,009322,Occitanie
+314,010033,Grand Est
+315,075112,Ile-de-France
+316,010081,Grand Est
+317,010102,Grand Est
+318,010123,Grand Est
+319,010265,Grand Est
+320,010268,Grand Est
+321,010297,Grand Est
+322,075115,Ile-de-France
+323,010323,Grand Est
+324,010325,Grand Est
+325,010333,Grand Est
+326,010343,Grand Est
+327,010362,Grand Est
+328,010382,Grand Est
+329,010387,Grand Est
+330,011024,Occitanie
+331,011048,Occitanie
+332,011069,Occitanie
+333,011076,Occitanie
+334,011106,Occitanie
+335,011144,Occitanie
+336,011145,Occitanie
+337,011170,Occitanie
+338,011199,Occitanie
+339,011202,Occitanie
+340,011203,Occitanie
+341,011206,Occitanie
+342,011258,Occitanie
+343,011262,Occitanie
+344,011266,Occitanie
+345,011281,Occitanie
+346,011285,Occitanie
+347,075118,Ile-de-France
+348,011310,Occitanie
+349,011370,Occitanie
+350,011379,Occitanie
+351,011397,Occitanie
+352,011441,Occitanie
+353,012146,Occitanie
+354,013001,Provence-Alpes-Côte d'Azur
+355,013002,Provence-Alpes-Côte d'Azur
+356,013004,Provence-Alpes-Côte d'Azur
+357,013007,Provence-Alpes-Côte d'Azur
+358,013016,Provence-Alpes-Côte d'Azur
+359,013022,Provence-Alpes-Côte d'Azur
+360,013026,Provence-Alpes-Côte d'Azur
+361,013027,Provence-Alpes-Côte d'Azur
+362,013030,Provence-Alpes-Côte d'Azur
+363,013031,Provence-Alpes-Côte d'Azur
+364,013033,Provence-Alpes-Côte d'Azur
+365,013035,Provence-Alpes-Côte d'Azur
+366,013036,Provence-Alpes-Côte d'Azur
+367,013042,Provence-Alpes-Côte d'Azur
+368,013043,Provence-Alpes-Côte d'Azur
+369,013045,Provence-Alpes-Côte d'Azur
+370,013046,Provence-Alpes-Côte d'Azur
+371,013054,Provence-Alpes-Côte d'Azur
+372,013063,Provence-Alpes-Côte d'Azur
+373,013070,Provence-Alpes-Côte d'Azur
+374,013073,Provence-Alpes-Côte d'Azur
+375,013075,Provence-Alpes-Côte d'Azur
+376,013085,Provence-Alpes-Côte d'Azur
+377,076217,Normandie
+378,013086,Provence-Alpes-Côte d'Azur
+379,013087,Provence-Alpes-Côte d'Azur
+380,013100,Provence-Alpes-Côte d'Azur
+381,013101,Provence-Alpes-Côte d'Azur
+382,076451,Normandie
+383,013103,Provence-Alpes-Côte d'Azur
+384,013117,Provence-Alpes-Côte d'Azur
+385,076655,Normandie
+386,013119,Provence-Alpes-Côte d'Azur
+387,013201,Provence-Alpes-Côte d'Azur
+388,013202,Provence-Alpes-Côte d'Azur
+389,077118,Ile-de-France
+390,013203,Provence-Alpes-Côte d'Azur
+391,013204,Provence-Alpes-Côte d'Azur
+392,013205,Provence-Alpes-Côte d'Azur
+393,013206,Provence-Alpes-Côte d'Azur
+394,013207,Provence-Alpes-Côte d'Azur
+395,013209,Provence-Alpes-Côte d'Azur
+396,013210,Provence-Alpes-Côte d'Azur
+397,013211,Provence-Alpes-Côte d'Azur
+398,013213,Provence-Alpes-Côte d'Azur
+399,013214,Provence-Alpes-Côte d'Azur
+400,013215,Provence-Alpes-Côte d'Azur
+401,013216,Provence-Alpes-Côte d'Azur
+402,078350,Ile-de-France
+403,078423,Ile-de-France
+404,014059,Normandie
+405,078545,Ile-de-France
+406,014079,Normandie
+407,014118,Normandie
+408,078551,Ile-de-France
+409,014220,Normandie
+410,014225,Normandie
+411,014229,Normandie
+412,014243,Normandie
+413,078586,Ile-de-France
+414,014312,Normandie
+415,014333,Normandie
+416,078640,Ile-de-France
+417,014409,Normandie
+418,014514,Normandie
+419,014536,Normandie
+420,014557,Normandie
+421,014699,Normandie
+422,014701,Normandie
+423,014715,Normandie
+424,014754,Normandie
+425,016015,Nouvelle-Aquitaine
+426,016028,Nouvelle-Aquitaine
+427,017414,Nouvelle-Aquitaine
+428,022113,Bretagne
+429,022168,Bretagne
+430,022278,Bretagne
+431,024322,Nouvelle-Aquitaine
+432,016154,Nouvelle-Aquitaine
+433,016166,Nouvelle-Aquitaine
+434,025527,Bourgogne-Franche-Comté
+435,028085,Centre-Val de Loire
+436,030003,Occitanie
+437,030007,Occitanie
+438,016291,Nouvelle-Aquitaine
+439,030133,Occitanie
+440,016341,Nouvelle-Aquitaine
+441,016374,Nouvelle-Aquitaine
+442,030189,Occitanie
+443,017010,Nouvelle-Aquitaine
+444,017019,Nouvelle-Aquitaine
+445,017028,Nouvelle-Aquitaine
+446,017034,Nouvelle-Aquitaine
+447,017094,Nouvelle-Aquitaine
+448,017109,Nouvelle-Aquitaine
+449,017127,Nouvelle-Aquitaine
+450,017142,Nouvelle-Aquitaine
+451,032013,Occitanie
+452,033005,Nouvelle-Aquitaine
+453,033075,Nouvelle-Aquitaine
+454,017168,Nouvelle-Aquitaine
+455,033550,Nouvelle-Aquitaine
+456,017200,Nouvelle-Aquitaine
+457,017207,Nouvelle-Aquitaine
+458,017218,Nouvelle-Aquitaine
+459,034023,Occitanie
+460,017230,Nouvelle-Aquitaine
+461,038169,Auvergne-Rhône-Alpes
+462,017274,Nouvelle-Aquitaine
+463,038253,Auvergne-Rhône-Alpes
+464,017286,Nouvelle-Aquitaine
+465,017291,Nouvelle-Aquitaine
+466,017299,Nouvelle-Aquitaine
+467,040046,Nouvelle-Aquitaine
+468,017333,Nouvelle-Aquitaine
+469,040088,Nouvelle-Aquitaine
+470,017347,Nouvelle-Aquitaine
+471,017369,Nouvelle-Aquitaine
+472,040304,Nouvelle-Aquitaine
+473,042256,Auvergne-Rhône-Alpes
+474,017415,Nouvelle-Aquitaine
+475,017421,Nouvelle-Aquitaine
+476,044109,Pays de la Loire
+477,017449,Nouvelle-Aquitaine
+478,018005,Centre-Val de Loire
+479,018015,Centre-Val de Loire
+480,018033,Centre-Val de Loire
+481,018141,Centre-Val de Loire
+482,018157,Centre-Val de Loire
+483,018197,Centre-Val de Loire
+484,018207,Centre-Val de Loire
+485,044190,Pays de la Loire
+486,044204,Pays de la Loire
+487,018279,Centre-Val de Loire
+488,045234,Centre-Val de Loire
+489,019031,Nouvelle-Aquitaine
+490,045286,Centre-Val de Loire
+491,050002,Normandie
+492,051454,Grand Est
+493,019123,Nouvelle-Aquitaine
+494,019202,Nouvelle-Aquitaine
+495,019243,Nouvelle-Aquitaine
+496,056062,Bretagne
+497,059368,Hauts-de-France
+498,019269,Nouvelle-Aquitaine
+499,019272,Nouvelle-Aquitaine
+500,019274,Nouvelle-Aquitaine
+501,019275,Nouvelle-Aquitaine
+502,059378,Hauts-de-France
+503,059491,Hauts-de-France
+504,060382,Hauts-de-France
+505,060395,Hauts-de-France
+506,062041,Hauts-de-France
+507,063300,Auvergne-Rhône-Alpes
+508,069003,Auvergne-Rhône-Alpes
+509,069204,Auvergne-Rhône-Alpes
+510,069264,Auvergne-Rhône-Alpes
+511,021231,Bourgogne-Franche-Comté
+512,069389,Auvergne-Rhône-Alpes
+513,070550,Bourgogne-Franche-Comté
+514,074014,Auvergne-Rhône-Alpes
+515,074249,Auvergne-Rhône-Alpes
+516,075102,Ile-de-France
+517,075103,Ile-de-France
+518,075104,Ile-de-France
+519,022020,Bretagne
+520,022032,Bretagne
+521,022050,Bretagne
+522,022054,Bretagne
+523,022055,Bretagne
+524,022070,Bretagne
+525,022081,Bretagne
+526,075106,Ile-de-France
+527,022093,Bretagne
+528,022094,Bretagne
+529,022106,Bretagne
+530,022118,Bretagne
+531,022136,Bretagne
+532,022143,Bretagne
+533,022160,Bretagne
+534,022162,Bretagne
+535,022172,Bretagne
+536,022179,Bretagne
+537,022186,Bretagne
+538,022187,Bretagne
+539,022194,Bretagne
+540,022206,Bretagne
+541,022209,Bretagne
+542,022215,Bretagne
+543,022222,Bretagne
+544,022225,Bretagne
+545,075107,Ile-de-France
+546,022282,Bretagne
+547,022325,Bretagne
+548,022339,Bretagne
+549,022343,Bretagne
+550,022360,Bretagne
+551,022362,Bretagne
+552,022379,Bretagne
+553,075114,Ile-de-France
+554,023096,Nouvelle-Aquitaine
+555,023176,Nouvelle-Aquitaine
+556,075117,Ile-de-France
+557,024037,Nouvelle-Aquitaine
+558,024053,Nouvelle-Aquitaine
+559,024086,Nouvelle-Aquitaine
+560,024138,Nouvelle-Aquitaine
+561,024226,Nouvelle-Aquitaine
+562,024335,Nouvelle-Aquitaine
+563,024356,Nouvelle-Aquitaine
+564,024362,Nouvelle-Aquitaine
+565,075120,Ile-de-France
+566,024520,Nouvelle-Aquitaine
+567,024547,Nouvelle-Aquitaine
+568,024557,Nouvelle-Aquitaine
+569,025031,Bourgogne-Franche-Comté
+570,025035,Bourgogne-Franche-Comté
+571,025047,Bourgogne-Franche-Comté
+572,025073,Bourgogne-Franche-Comté
+573,025084,Bourgogne-Franche-Comté
+574,025127,Bourgogne-Franche-Comté
+575,025157,Bourgogne-Franche-Comté
+576,025197,Bourgogne-Franche-Comté
+577,025204,Bourgogne-Franche-Comté
+578,025222,Bourgogne-Franche-Comté
+579,025254,Bourgogne-Franche-Comté
+580,025265,Bourgogne-Franche-Comté
+581,076351,Normandie
+582,025293,Bourgogne-Franche-Comté
+583,025304,Bourgogne-Franche-Comté
+584,025307,Bourgogne-Franche-Comté
+585,025318,Bourgogne-Franche-Comté
+586,025321,Bourgogne-Franche-Comté
+587,025364,Bourgogne-Franche-Comté
+588,025380,Bourgogne-Franche-Comté
+589,025381,Bourgogne-Franche-Comté
+590,025388,Bourgogne-Franche-Comté
+591,076447,Normandie
+592,025403,Bourgogne-Franche-Comté
+593,077005,Ile-de-France
+594,077014,Ile-de-France
+595,025411,Bourgogne-Franche-Comté
+596,025413,Bourgogne-Franche-Comté
+597,025434,Bourgogne-Franche-Comté
+598,077058,Ile-de-France
+599,025462,Bourgogne-Franche-Comté
+600,077059,Ile-de-France
+601,077192,Ile-de-France
+602,025494,Bourgogne-Franche-Comté
+603,025495,Bourgogne-Franche-Comté
+604,077259,Ile-de-France
+605,077288,Ile-de-France
+606,025539,Bourgogne-Franche-Comté
+607,077379,Ile-de-France
+608,025578,Bourgogne-Franche-Comté
+609,078005,Ile-de-France
+610,078372,Ile-de-France
+611,026008,Auvergne-Rhône-Alpes
+612,078383,Ile-de-France
+613,026037,Auvergne-Rhône-Alpes
+614,026042,Auvergne-Rhône-Alpes
+615,078550,Ile-de-France
+616,078621,Ile-de-France
+617,026057,Auvergne-Rhône-Alpes
+618,026058,Auvergne-Rhône-Alpes
+619,026064,Auvergne-Rhône-Alpes
+620,078646,Ile-de-France
+621,026108,Auvergne-Rhône-Alpes
+622,026114,Auvergne-Rhône-Alpes
+623,026116,Auvergne-Rhône-Alpes
+624,026165,Auvergne-Rhône-Alpes
+625,026166,Auvergne-Rhône-Alpes
+626,026179,Auvergne-Rhône-Alpes
+627,026182,Auvergne-Rhône-Alpes
+628,026191,Auvergne-Rhône-Alpes
+629,026197,Auvergne-Rhône-Alpes
+630,026198,Auvergne-Rhône-Alpes
+631,026211,Auvergne-Rhône-Alpes
+632,026213,Auvergne-Rhône-Alpes
+633,026218,Auvergne-Rhône-Alpes
+634,026220,Auvergne-Rhône-Alpes
+635,026235,Auvergne-Rhône-Alpes
+636,074256,Auvergne-Rhône-Alpes
+637,026247,Auvergne-Rhône-Alpes
+638,026250,Auvergne-Rhône-Alpes
+639,026252,Auvergne-Rhône-Alpes
+640,026271,Auvergne-Rhône-Alpes
+641,026281,Auvergne-Rhône-Alpes
+642,026290,Auvergne-Rhône-Alpes
+643,026301,Auvergne-Rhône-Alpes
+644,026322,Auvergne-Rhône-Alpes
+645,026324,Auvergne-Rhône-Alpes
+646,026325,Auvergne-Rhône-Alpes
+647,026333,Auvergne-Rhône-Alpes
+648,026338,Auvergne-Rhône-Alpes
+649,026347,Auvergne-Rhône-Alpes
+650,026357,Auvergne-Rhône-Alpes
+651,026362,Auvergne-Rhône-Alpes
+652,027016,Normandie
+653,027051,Normandie
+654,027056,Normandie
+655,027119,Normandie
+656,027165,Normandie
+657,027229,Normandie
+658,027230,Normandie
+659,027275,Normandie
+660,027284,Normandie
+661,027299,Normandie
+662,027448,Normandie
+663,030106,Occitanie
+664,031203,Occitanie
+665,033039,Nouvelle-Aquitaine
+666,027502,Normandie
+667,033514,Nouvelle-Aquitaine
+668,033522,Nouvelle-Aquitaine
+669,027562,Normandie
+670,033533,Nouvelle-Aquitaine
+671,034003,Occitanie
+672,027660,Normandie
+673,027679,Normandie
+674,027681,Normandie
+675,028007,Centre-Val de Loire
+676,028015,Centre-Val de Loire
+677,034079,Occitanie
+678,034157,Occitanie
+679,034301,Occitanie
+680,028084,Centre-Val de Loire
+681,028088,Centre-Val de Loire
+682,028089,Centre-Val de Loire
+683,028094,Centre-Val de Loire
+684,028110,Centre-Val de Loire
+685,028113,Centre-Val de Loire
+686,028116,Centre-Val de Loire
+687,028134,Centre-Val de Loire
+688,028140,Centre-Val de Loire
+689,035210,Bretagne
+690,035238,Bretagne
+691,028168,Centre-Val de Loire
+692,028172,Centre-Val de Loire
+693,028173,Centre-Val de Loire
+694,028191,Centre-Val de Loire
+695,028201,Centre-Val de Loire
+696,028209,Centre-Val de Loire
+697,028213,Centre-Val de Loire
+698,028218,Centre-Val de Loire
+699,028220,Centre-Val de Loire
+700,028227,Centre-Val de Loire
+701,028229,Centre-Val de Loire
+702,028279,Centre-Val de Loire
+703,028280,Centre-Val de Loire
+704,038191,Auvergne-Rhône-Alpes
+705,028334,Centre-Val de Loire
+706,028348,Centre-Val de Loire
+707,038421,Auvergne-Rhône-Alpes
+708,028358,Centre-Val de Loire
+709,028359,Centre-Val de Loire
+710,039526,Bourgogne-Franche-Comté
+711,040281,Nouvelle-Aquitaine
+712,028391,Centre-Val de Loire
+713,040284,Nouvelle-Aquitaine
+714,028404,Centre-Val de Loire
+715,040312,Nouvelle-Aquitaine
+716,040317,Nouvelle-Aquitaine
+717,042005,Auvergne-Rhône-Alpes
+718,029019,Bretagne
+719,042187,Auvergne-Rhône-Alpes
+720,029022,Bretagne
+721,029023,Bretagne
+722,029031,Bretagne
+723,029039,Bretagne
+724,029042,Bretagne
+725,029045,Bretagne
+726,029046,Bretagne
+727,042332,Auvergne-Rhône-Alpes
+728,043157,Auvergne-Rhône-Alpes
+729,029103,Bretagne
+730,029105,Bretagne
+731,044035,Pays de la Loire
+732,044132,Pays de la Loire
+733,029151,Bretagne
+734,044198,Pays de la Loire
+735,045075,Centre-Val de Loire
+736,045232,Centre-Val de Loire
+737,029188,Bretagne
+738,029189,Bretagne
+739,029217,Bretagne
+740,045284,Centre-Val de Loire
+741,029233,Bretagne
+742,029239,Bretagne
+743,049007,Pays de la Loire
+744,029254,Bretagne
+745,029256,Bretagne
+746,02A004,Corse
+747,02A008,Corse
+748,02A017,Corse
+749,02A018,Corse
+750,02A021,Corse
+751,02A032,Corse
+752,02A035,Corse
+753,02A041,Corse
+754,02A048,Corse
+755,02A070,Corse
+756,02A071,Corse
+757,02A085,Corse
+758,02A090,Corse
+759,02A098,Corse
+760,02A103,Corse
+761,02A119,Corse
+762,02A130,Corse
+763,02A139,Corse
+764,02A189,Corse
+765,02A198,Corse
+766,02A200,Corse
+767,049099,Pays de la Loire
+768,02A212,Corse
+769,02A215,Corse
+770,02A228,Corse
+771,02A247,Corse
+772,02A249,Corse
+773,02A254,Corse
+774,02A269,Corse
+775,02A271,Corse
+776,02A272,Corse
+777,02A276,Corse
+778,050147,Normandie
+779,02A288,Corse
+780,02A312,Corse
+781,02A324,Corse
+782,051108,Grand Est
+783,02A348,Corse
+784,02A349,Corse
+785,02A362,Corse
+786,02B020,Corse
+787,054263,Grand Est
+788,056023,Bretagne
+789,060342,Hauts-de-France
+790,02B087,Corse
+791,060513,Hauts-de-France
+792,062893,Hauts-de-France
+793,064102,Nouvelle-Aquitaine
+794,069089,Auvergne-Rhône-Alpes
+795,02B134,Corse
+796,069176,Auvergne-Rhône-Alpes
+797,069381,Auvergne-Rhône-Alpes
+798,02B185,Corse
+799,069383,Auvergne-Rhône-Alpes
+800,030004,Occitanie
+801,030006,Occitanie
+802,030010,Occitanie
+803,030011,Occitanie
+804,030017,Occitanie
+805,030020,Occitanie
+806,072181,Pays de la Loire
+807,030028,Occitanie
+808,030032,Occitanie
+809,030034,Occitanie
+810,030036,Occitanie
+811,030037,Occitanie
+812,030047,Occitanie
+813,030060,Occitanie
+814,030061,Occitanie
+815,030062,Occitanie
+816,030073,Occitanie
+817,030075,Occitanie
+818,030082,Occitanie
+819,030083,Occitanie
+820,073257,Auvergne-Rhône-Alpes
+821,074311,Auvergne-Rhône-Alpes
+822,030123,Occitanie
+823,030125,Occitanie
+824,030126,Occitanie
+825,030128,Occitanie
+826,030132,Occitanie
+827,075113,Ile-de-France
+828,030140,Occitanie
+829,030141,Occitanie
+830,030156,Occitanie
+831,030166,Occitanie
+832,030169,Occitanie
+833,030171,Occitanie
+834,030174,Occitanie
+835,030179,Occitanie
+836,030202,Occitanie
+837,030203,Occitanie
+838,030206,Occitanie
+839,030210,Occitanie
+840,030212,Occitanie
+841,030217,Occitanie
+842,030221,Occitanie
+843,030231,Occitanie
+844,030249,Occitanie
+845,030253,Occitanie
+846,030255,Occitanie
+847,030258,Occitanie
+848,030260,Occitanie
+849,030263,Occitanie
+850,075116,Ile-de-France
+851,030276,Occitanie
+852,030288,Occitanie
+853,030290,Occitanie
+854,030309,Occitanie
+855,030311,Occitanie
+856,030315,Occitanie
+857,030317,Occitanie
+858,030321,Occitanie
+859,030325,Occitanie
+860,030334,Occitanie
+861,030341,Occitanie
+862,030350,Occitanie
+863,030351,Occitanie
+864,030356,Occitanie
+865,031022,Occitanie
+866,031032,Occitanie
+867,031035,Occitanie
+868,031044,Occitanie
+869,031048,Occitanie
+870,031056,Occitanie
+871,031066,Occitanie
+872,031069,Occitanie
+873,031113,Occitanie
+874,031116,Occitanie
+875,031149,Occitanie
+876,031157,Occitanie
+877,031163,Occitanie
+878,031169,Occitanie
+879,031182,Occitanie
+880,031184,Occitanie
+881,031186,Occitanie
+882,031202,Occitanie
+883,031205,Occitanie
+884,031232,Occitanie
+885,031254,Occitanie
+886,031259,Occitanie
+887,031271,Occitanie
+888,031282,Occitanie
+889,077061,Ile-de-France
+890,077079,Ile-de-France
+891,077284,Ile-de-France
+892,031351,Occitanie
+893,031358,Occitanie
+894,031396,Occitanie
+895,077285,Ile-de-France
+896,077307,Ile-de-France
+897,031429,Occitanie
+898,031446,Occitanie
+899,031451,Occitanie
+900,077419,Ile-de-France
+901,031462,Occitanie
+902,077450,Ile-de-France
+903,077487,Ile-de-France
+904,078146,Ile-de-France
+905,031488,Occitanie
+906,031506,Occitanie
+907,078165,Ile-de-France
+908,031526,Occitanie
+909,078358,Ile-de-France
+910,031557,Occitanie
+911,031561,Occitanie
+912,078382,Ile-de-France
+913,031582,Occitanie
+914,031584,Occitanie
+915,078481,Ile-de-France
+916,032096,Occitanie
+917,032107,Occitanie
+918,032147,Occitanie
+919,032160,Occitanie
+920,033051,Nouvelle-Aquitaine
+921,033081,Nouvelle-Aquitaine
+922,033249,Nouvelle-Aquitaine
+923,033281,Nouvelle-Aquitaine
+924,033003,Nouvelle-Aquitaine
+925,033009,Nouvelle-Aquitaine
+926,033011,Nouvelle-Aquitaine
+927,033013,Nouvelle-Aquitaine
+928,033019,Nouvelle-Aquitaine
+929,033029,Nouvelle-Aquitaine
+930,033030,Nouvelle-Aquitaine
+931,033032,Nouvelle-Aquitaine
+932,033036,Nouvelle-Aquitaine
+933,034108,Occitanie
+934,033056,Nouvelle-Aquitaine
+935,033058,Nouvelle-Aquitaine
+936,033069,Nouvelle-Aquitaine
+937,038186,Auvergne-Rhône-Alpes
+938,033080,Nouvelle-Aquitaine
+939,038229,Auvergne-Rhône-Alpes
+940,033090,Nouvelle-Aquitaine
+941,033096,Nouvelle-Aquitaine
+942,033099,Nouvelle-Aquitaine
+943,038249,Auvergne-Rhône-Alpes
+944,033104,Nouvelle-Aquitaine
+945,039470,Bourgogne-Franche-Comté
+946,033108,Nouvelle-Aquitaine
+947,033109,Nouvelle-Aquitaine
+948,040133,Nouvelle-Aquitaine
+949,042218,Auvergne-Rhône-Alpes
+950,033119,Nouvelle-Aquitaine
+951,033122,Nouvelle-Aquitaine
+952,033138,Nouvelle-Aquitaine
+953,033140,Nouvelle-Aquitaine
+954,033162,Nouvelle-Aquitaine
+955,033165,Nouvelle-Aquitaine
+956,033167,Nouvelle-Aquitaine
+957,033185,Nouvelle-Aquitaine
+958,033192,Nouvelle-Aquitaine
+959,033195,Nouvelle-Aquitaine
+960,033199,Nouvelle-Aquitaine
+961,033200,Nouvelle-Aquitaine
+962,033201,Nouvelle-Aquitaine
+963,033203,Nouvelle-Aquitaine
+964,033213,Nouvelle-Aquitaine
+965,033214,Nouvelle-Aquitaine
+966,033226,Nouvelle-Aquitaine
+967,033227,Nouvelle-Aquitaine
+968,033229,Nouvelle-Aquitaine
+969,033234,Nouvelle-Aquitaine
+970,033236,Nouvelle-Aquitaine
+971,033238,Nouvelle-Aquitaine
+972,033240,Nouvelle-Aquitaine
+973,033241,Nouvelle-Aquitaine
+974,044162,Pays de la Loire
+975,033243,Nouvelle-Aquitaine
+976,033256,Nouvelle-Aquitaine
+977,033268,Nouvelle-Aquitaine
+978,033273,Nouvelle-Aquitaine
+979,033284,Nouvelle-Aquitaine
+980,033293,Nouvelle-Aquitaine
+981,033297,Nouvelle-Aquitaine
+982,045258,Centre-Val de Loire
+983,049347,Pays de la Loire
+984,033311,Nouvelle-Aquitaine
+985,033312,Nouvelle-Aquitaine
+986,053062,Pays de la Loire
+987,053073,Pays de la Loire
+988,059220,Hauts-de-France
+989,033318,Nouvelle-Aquitaine
+990,059350,Hauts-de-France
+991,033324,Nouvelle-Aquitaine
+992,033337,Nouvelle-Aquitaine
+993,033352,Nouvelle-Aquitaine
+994,033366,Nouvelle-Aquitaine
+995,033376,Nouvelle-Aquitaine
+996,033381,Nouvelle-Aquitaine
+997,033389,Nouvelle-Aquitaine
+998,033397,Nouvelle-Aquitaine
+999,033402,Nouvelle-Aquitaine
+1000,033415,Nouvelle-Aquitaine
+1001,033422,Nouvelle-Aquitaine
+1002,033424,Nouvelle-Aquitaine
+1003,033433,Nouvelle-Aquitaine
+1004,033434,Nouvelle-Aquitaine
+1005,033435,Nouvelle-Aquitaine
+1006,033466,Nouvelle-Aquitaine
+1007,033473,Nouvelle-Aquitaine
+1008,033478,Nouvelle-Aquitaine
+1009,033483,Nouvelle-Aquitaine
+1010,033490,Nouvelle-Aquitaine
+1011,033492,Nouvelle-Aquitaine
+1012,059410,Hauts-de-France
+1013,033498,Nouvelle-Aquitaine
+1014,033506,Nouvelle-Aquitaine
+1015,062604,Hauts-de-France
+1016,066004,Occitanie
+1017,033519,Nouvelle-Aquitaine
+1018,069078,Auvergne-Rhône-Alpes
+1019,069081,Auvergne-Rhône-Alpes
+1020,033527,Nouvelle-Aquitaine
+1021,033529,Nouvelle-Aquitaine
+1022,033534,Nouvelle-Aquitaine
+1023,033535,Nouvelle-Aquitaine
+1024,069143,Auvergne-Rhône-Alpes
+1025,033539,Nouvelle-Aquitaine
+1026,033544,Nouvelle-Aquitaine
+1027,033545,Nouvelle-Aquitaine
+1028,069382,Auvergne-Rhône-Alpes
+1029,033554,Nouvelle-Aquitaine
+1030,033555,Nouvelle-Aquitaine
+1031,034014,Occitanie
+1032,034022,Occitanie
+1033,034024,Occitanie
+1034,034027,Occitanie
+1035,034028,Occitanie
+1036,034032,Occitanie
+1037,034037,Occitanie
+1038,034039,Occitanie
+1039,034057,Occitanie
+1040,034058,Occitanie
+1041,034063,Occitanie
+1042,069385,Auvergne-Rhône-Alpes
+1043,034067,Occitanie
+1044,034075,Occitanie
+1045,034090,Occitanie
+1046,034111,Occitanie
+1047,034113,Occitanie
+1048,034114,Occitanie
+1049,034116,Occitanie
+1050,034120,Occitanie
+1051,034123,Occitanie
+1052,034126,Occitanie
+1053,073235,Auvergne-Rhône-Alpes
+1054,034128,Occitanie
+1055,073306,Auvergne-Rhône-Alpes
+1056,034129,Occitanie
+1057,074019,Auvergne-Rhône-Alpes
+1058,074056,Auvergne-Rhône-Alpes
+1059,034142,Occitanie
+1060,034143,Occitanie
+1061,034151,Occitanie
+1062,034152,Occitanie
+1063,034154,Occitanie
+1064,075109,Ile-de-France
+1065,034161,Occitanie
+1066,034163,Occitanie
+1067,034165,Occitanie
+1068,034172,Occitanie
+1069,034173,Occitanie
+1070,034180,Occitanie
+1071,034192,Occitanie
+1072,034198,Occitanie
+1073,034204,Occitanie
+1074,034207,Occitanie
+1075,034209,Occitanie
+1076,034213,Occitanie
+1077,034215,Occitanie
+1078,034217,Occitanie
+1079,034225,Occitanie
+1080,034239,Occitanie
+1081,034240,Occitanie
+1082,034244,Occitanie
+1083,034246,Occitanie
+1084,034247,Occitanie
+1085,034249,Occitanie
+1086,034254,Occitanie
+1087,034255,Occitanie
+1088,034270,Occitanie
+1089,034282,Occitanie
+1090,034288,Occitanie
+1091,034299,Occitanie
+1092,034307,Occitanie
+1093,034324,Occitanie
+1094,034327,Occitanie
+1095,034329,Occitanie
+1096,034332,Occitanie
+1097,034333,Occitanie
+1098,034337,Occitanie
+1099,034344,Occitanie
+1100,035001,Bretagne
+1101,035012,Bretagne
+1102,035023,Bretagne
+1103,035024,Bretagne
+1104,077053,Ile-de-France
+1105,035032,Bretagne
+1106,035033,Bretagne
+1107,035037,Bretagne
+1108,035040,Bretagne
+1109,035047,Bretagne
+1110,035049,Bretagne
+1111,035051,Bretagne
+1112,035055,Bretagne
+1113,035057,Bretagne
+1114,035059,Bretagne
+1115,078190,Ile-de-France
+1116,035066,Bretagne
+1117,035068,Bretagne
+1118,035069,Bretagne
+1119,035076,Bretagne
+1120,078362,Ile-de-France
+1121,035093,Bretagne
+1122,035095,Bretagne
+1123,035096,Bretagne
+1124,078401,Ile-de-France
+1125,035122,Bretagne
+1126,035123,Bretagne
+1127,035125,Bretagne
+1128,035126,Bretagne
+1129,035130,Bretagne
+1130,035131,Bretagne
+1131,035135,Bretagne
+1132,035136,Bretagne
+1133,035152,Bretagne
+1134,035173,Bretagne
+1135,035177,Bretagne
+1136,035179,Bretagne
+1137,035184,Bretagne
+1138,035188,Bretagne
+1139,035195,Bretagne
+1140,035196,Bretagne
+1141,035204,Bretagne
+1142,035206,Bretagne
+1143,035208,Bretagne
+1144,035216,Bretagne
+1145,035226,Bretagne
+1146,035228,Bretagne
+1147,035231,Bretagne
+1148,035236,Bretagne
+1149,035239,Bretagne
+1150,035240,Bretagne
+1151,035241,Bretagne
+1152,035247,Bretagne
+1153,035250,Bretagne
+1154,035251,Bretagne
+1155,035256,Bretagne
+1156,035265,Bretagne
+1157,035278,Bretagne
+1158,035281,Bretagne
+1159,035284,Bretagne
+1160,035287,Bretagne
+1161,035288,Bretagne
+1162,035297,Bretagne
+1163,035299,Bretagne
+1164,035326,Bretagne
+1165,035334,Bretagne
+1166,035347,Bretagne
+1167,035352,Bretagne
+1168,035353,Bretagne
+1169,035360,Bretagne
+1170,035362,Bretagne
+1171,035363,Bretagne
+1172,036044,Centre-Val de Loire
+1173,036046,Centre-Val de Loire
+1174,037003,Centre-Val de Loire
+1175,037018,Centre-Val de Loire
+1176,037031,Centre-Val de Loire
+1177,037050,Centre-Val de Loire
+1178,037109,Centre-Val de Loire
+1179,037115,Centre-Val de Loire
+1180,037122,Centre-Val de Loire
+1181,037132,Centre-Val de Loire
+1182,040192,Nouvelle-Aquitaine
+1183,037151,Centre-Val de Loire
+1184,040326,Nouvelle-Aquitaine
+1185,044069,Pays de la Loire
+1186,037172,Centre-Val de Loire
+1187,044074,Pays de la Loire
+1188,044201,Pays de la Loire
+1189,045285,Centre-Val de Loire
+1190,037195,Centre-Val de Loire
+1191,037196,Centre-Val de Loire
+1192,049015,Pays de la Loire
+1193,037203,Centre-Val de Loire
+1194,037208,Centre-Val de Loire
+1195,051573,Grand Est
+1196,037214,Centre-Val de Loire
+1197,054329,Grand Est
+1198,037233,Centre-Val de Loire
+1199,056083,Bretagne
+1200,056107,Bretagne
+1201,056121,Bretagne
+1202,038002,Auvergne-Rhône-Alpes
+1203,038006,Auvergne-Rhône-Alpes
+1204,038011,Auvergne-Rhône-Alpes
+1205,038020,Auvergne-Rhône-Alpes
+1206,038030,Auvergne-Rhône-Alpes
+1207,038040,Auvergne-Rhône-Alpes
+1208,059009,Hauts-de-France
+1209,038045,Auvergne-Rhône-Alpes
+1210,038052,Auvergne-Rhône-Alpes
+1211,038053,Auvergne-Rhône-Alpes
+1212,038059,Auvergne-Rhône-Alpes
+1213,038061,Auvergne-Rhône-Alpes
+1214,059271,Hauts-de-France
+1215,059367,Hauts-de-France
+1216,060157,Hauts-de-France
+1217,038100,Auvergne-Rhône-Alpes
+1218,060509,Hauts-de-France
+1219,038111,Auvergne-Rhône-Alpes
+1220,060684,Hauts-de-France
+1221,064260,Nouvelle-Aquitaine
+1222,038126,Auvergne-Rhône-Alpes
+1223,038128,Auvergne-Rhône-Alpes
+1224,038129,Auvergne-Rhône-Alpes
+1225,069096,Auvergne-Rhône-Alpes
+1226,069243,Auvergne-Rhône-Alpes
+1227,038140,Auvergne-Rhône-Alpes
+1228,038150,Auvergne-Rhône-Alpes
+1229,038151,Auvergne-Rhône-Alpes
+1230,069278,Auvergne-Rhône-Alpes
+1231,074083,Auvergne-Rhône-Alpes
+1232,038158,Auvergne-Rhône-Alpes
+1233,074264,Auvergne-Rhône-Alpes
+1234,038163,Auvergne-Rhône-Alpes
+1235,038170,Auvergne-Rhône-Alpes
+1236,075119,Ile-de-France
+1237,038175,Auvergne-Rhône-Alpes
+1238,038179,Auvergne-Rhône-Alpes
+1239,038181,Auvergne-Rhône-Alpes
+1240,038187,Auvergne-Rhône-Alpes
+1241,038193,Auvergne-Rhône-Alpes
+1242,038194,Auvergne-Rhône-Alpes
+1243,038205,Auvergne-Rhône-Alpes
+1244,038225,Auvergne-Rhône-Alpes
+1245,038239,Auvergne-Rhône-Alpes
+1246,038279,Auvergne-Rhône-Alpes
+1247,038309,Auvergne-Rhône-Alpes
+1248,038314,Auvergne-Rhône-Alpes
+1249,038316,Auvergne-Rhône-Alpes
+1250,038317,Auvergne-Rhône-Alpes
+1251,038337,Auvergne-Rhône-Alpes
+1252,038347,Auvergne-Rhône-Alpes
+1253,038377,Auvergne-Rhône-Alpes
+1254,038382,Auvergne-Rhône-Alpes
+1255,038383,Auvergne-Rhône-Alpes
+1256,038384,Auvergne-Rhône-Alpes
+1257,038387,Auvergne-Rhône-Alpes
+1258,038397,Auvergne-Rhône-Alpes
+1259,038400,Auvergne-Rhône-Alpes
+1260,038408,Auvergne-Rhône-Alpes
+1261,038416,Auvergne-Rhône-Alpes
+1262,038422,Auvergne-Rhône-Alpes
+1263,038423,Auvergne-Rhône-Alpes
+1264,038431,Auvergne-Rhône-Alpes
+1265,038439,Auvergne-Rhône-Alpes
+1266,038442,Auvergne-Rhône-Alpes
+1267,077169,Ile-de-France
+1268,077326,Ile-de-France
+1269,038474,Auvergne-Rhône-Alpes
+1270,077373,Ile-de-France
+1271,038485,Auvergne-Rhône-Alpes
+1272,038501,Auvergne-Rhône-Alpes
+1273,038503,Auvergne-Rhône-Alpes
+1274,038516,Auvergne-Rhône-Alpes
+1275,038517,Auvergne-Rhône-Alpes
+1276,077438,Ile-de-France
+1277,038527,Auvergne-Rhône-Alpes
+1278,038528,Auvergne-Rhône-Alpes
+1279,077445,Ile-de-France
+1280,038537,Auvergne-Rhône-Alpes
+1281,038538,Auvergne-Rhône-Alpes
+1282,038547,Auvergne-Rhône-Alpes
+1283,038548,Auvergne-Rhône-Alpes
+1284,038553,Auvergne-Rhône-Alpes
+1285,038559,Auvergne-Rhône-Alpes
+1286,038562,Auvergne-Rhône-Alpes
+1287,077468,Ile-de-France
+1288,038563,Auvergne-Rhône-Alpes
+1289,038565,Auvergne-Rhône-Alpes
+1290,038567,Auvergne-Rhône-Alpes
+1291,039013,Bourgogne-Franche-Comté
+1292,077470,Ile-de-France
+1293,039047,Bourgogne-Franche-Comté
+1294,077514,Ile-de-France
+1295,039059,Bourgogne-Franche-Comté
+1296,078015,Ile-de-France
+1297,039097,Bourgogne-Franche-Comté
+1298,078092,Ile-de-France
+1299,078172,Ile-de-France
+1300,039154,Bourgogne-Franche-Comté
+1301,078217,Ile-de-France
+1302,078466,Ile-de-France
+1303,039198,Bourgogne-Franche-Comté
+1304,078490,Ile-de-France
+1305,078686,Ile-de-France
+1306,039286,Bourgogne-Franche-Comté
+1307,039300,Bourgogne-Franche-Comté
+1308,039333,Bourgogne-Franche-Comté
+1309,039362,Bourgogne-Franche-Comté
+1310,039368,Bourgogne-Franche-Comté
+1311,039392,Bourgogne-Franche-Comté
+1312,039411,Bourgogne-Franche-Comté
+1313,039434,Bourgogne-Franche-Comté
+1314,039441,Bourgogne-Franche-Comté
+1315,039453,Bourgogne-Franche-Comté
+1316,040296,Nouvelle-Aquitaine
+1317,039478,Bourgogne-Franche-Comté
+1318,041018,Centre-Val de Loire
+1319,039500,Bourgogne-Franche-Comté
+1320,039501,Bourgogne-Franche-Comté
+1321,039510,Bourgogne-Franche-Comté
+1322,042299,Auvergne-Rhône-Alpes
+1323,044047,Pays de la Loire
+1324,050197,Normandie
+1325,056007,Bretagne
+1326,059139,Hauts-de-France
+1327,059178,Hauts-de-France
+1328,040001,Nouvelle-Aquitaine
+1329,059250,Hauts-de-France
+1330,060175,Hauts-de-France
+1331,040004,Nouvelle-Aquitaine
+1332,040019,Nouvelle-Aquitaine
+1333,040036,Nouvelle-Aquitaine
+1334,060414,Hauts-de-France
+1335,040043,Nouvelle-Aquitaine
+1336,060612,Hauts-de-France
+1337,066003,Occitanie
+1338,040065,Nouvelle-Aquitaine
+1339,069088,Auvergne-Rhône-Alpes
+1340,069163,Auvergne-Rhône-Alpes
+1341,073008,Auvergne-Rhône-Alpes
+1342,073109,Auvergne-Rhône-Alpes
+1343,073150,Auvergne-Rhône-Alpes
+1344,074189,Auvergne-Rhône-Alpes
+1345,075101,Ile-de-France
+1346,040119,Nouvelle-Aquitaine
+1347,040150,Nouvelle-Aquitaine
+1348,040157,Nouvelle-Aquitaine
+1349,076341,Normandie
+1350,040184,Nouvelle-Aquitaine
+1351,040187,Nouvelle-Aquitaine
+1352,077096,Ile-de-France
+1353,077108,Ile-de-France
+1354,040195,Nouvelle-Aquitaine
+1355,040209,Nouvelle-Aquitaine
+1356,040211,Nouvelle-Aquitaine
+1357,040217,Nouvelle-Aquitaine
+1358,040224,Nouvelle-Aquitaine
+1359,040235,Nouvelle-Aquitaine
+1360,040243,Nouvelle-Aquitaine
+1361,077152,Ile-de-France
+1362,040261,Nouvelle-Aquitaine
+1363,077186,Ile-de-France
+1364,040272,Nouvelle-Aquitaine
+1365,040273,Nouvelle-Aquitaine
+1366,040279,Nouvelle-Aquitaine
+1367,040282,Nouvelle-Aquitaine
+1368,040283,Nouvelle-Aquitaine
+1369,040287,Nouvelle-Aquitaine
+1370,077251,Ile-de-France
+1371,040310,Nouvelle-Aquitaine
+1372,040313,Nouvelle-Aquitaine
+1373,077385,Ile-de-France
+1374,077449,Ile-de-France
+1375,078124,Ile-de-France
+1376,078158,Ile-de-France
+1377,041047,Centre-Val de Loire
+1378,078297,Ile-de-France
+1379,078311,Ile-de-France
+1380,078380,Ile-de-France
+1381,078396,Ile-de-France
+1382,078650,Ile-de-France
+1383,041128,Centre-Val de Loire
+1384,041151,Centre-Val de Loire
+1385,041194,Centre-Val de Loire
+1386,041269,Centre-Val de Loire
+1387,041276,Centre-Val de Loire
+1388,041295,Centre-Val de Loire
+1389,042011,Auvergne-Rhône-Alpes
+1390,042019,Auvergne-Rhône-Alpes
+1391,042026,Auvergne-Rhône-Alpes
+1392,042039,Auvergne-Rhône-Alpes
+1393,042044,Auvergne-Rhône-Alpes
+1394,042052,Auvergne-Rhône-Alpes
+1395,042056,Auvergne-Rhône-Alpes
+1396,042059,Auvergne-Rhône-Alpes
+1397,042071,Auvergne-Rhône-Alpes
+1398,042092,Auvergne-Rhône-Alpes
+1399,042093,Auvergne-Rhône-Alpes
+1400,042094,Auvergne-Rhône-Alpes
+1401,042095,Auvergne-Rhône-Alpes
+1402,042097,Auvergne-Rhône-Alpes
+1403,042099,Auvergne-Rhône-Alpes
+1404,042103,Auvergne-Rhône-Alpes
+1405,042110,Auvergne-Rhône-Alpes
+1406,042123,Auvergne-Rhône-Alpes
+1407,042127,Auvergne-Rhône-Alpes
+1408,042147,Auvergne-Rhône-Alpes
+1409,042149,Auvergne-Rhône-Alpes
+1410,042156,Auvergne-Rhône-Alpes
+1411,042168,Auvergne-Rhône-Alpes
+1412,042170,Auvergne-Rhône-Alpes
+1413,042180,Auvergne-Rhône-Alpes
+1414,042183,Auvergne-Rhône-Alpes
+1415,042184,Auvergne-Rhône-Alpes
+1416,042186,Auvergne-Rhône-Alpes
+1417,042189,Auvergne-Rhône-Alpes
+1418,042204,Auvergne-Rhône-Alpes
+1419,042207,Auvergne-Rhône-Alpes
+1420,042222,Auvergne-Rhône-Alpes
+1421,042223,Auvergne-Rhône-Alpes
+1422,042225,Auvergne-Rhône-Alpes
+1423,042232,Auvergne-Rhône-Alpes
+1424,042237,Auvergne-Rhône-Alpes
+1425,042242,Auvergne-Rhône-Alpes
+1426,042248,Auvergne-Rhône-Alpes
+1427,042270,Auvergne-Rhône-Alpes
+1428,042271,Auvergne-Rhône-Alpes
+1429,042275,Auvergne-Rhône-Alpes
+1430,042279,Auvergne-Rhône-Alpes
+1431,042285,Auvergne-Rhône-Alpes
+1432,042301,Auvergne-Rhône-Alpes
+1433,042302,Auvergne-Rhône-Alpes
+1434,042305,Auvergne-Rhône-Alpes
+1435,042316,Auvergne-Rhône-Alpes
+1436,042323,Auvergne-Rhône-Alpes
+1437,042330,Auvergne-Rhône-Alpes
+1438,043007,Auvergne-Rhône-Alpes
+1439,043012,Auvergne-Rhône-Alpes
+1440,043025,Auvergne-Rhône-Alpes
+1441,043040,Auvergne-Rhône-Alpes
+1442,043041,Auvergne-Rhône-Alpes
+1443,043051,Auvergne-Rhône-Alpes
+1444,043089,Auvergne-Rhône-Alpes
+1445,044055,Pays de la Loire
+1446,043112,Auvergne-Rhône-Alpes
+1447,043153,Auvergne-Rhône-Alpes
+1448,044135,Pays de la Loire
+1449,043177,Auvergne-Rhône-Alpes
+1450,045028,Centre-Val de Loire
+1451,045146,Centre-Val de Loire
+1452,045155,Centre-Val de Loire
+1453,043205,Auvergne-Rhône-Alpes
+1454,043213,Auvergne-Rhône-Alpes
+1455,050129,Normandie
+1456,043224,Auvergne-Rhône-Alpes
+1457,043236,Auvergne-Rhône-Alpes
+1458,050218,Normandie
+1459,043262,Auvergne-Rhône-Alpes
+1460,043268,Auvergne-Rhône-Alpes
+1461,044002,Pays de la Loire
+1462,044003,Pays de la Loire
+1463,050502,Normandie
+1464,044009,Pays de la Loire
+1465,044010,Pays de la Loire
+1466,044012,Pays de la Loire
+1467,044013,Pays de la Loire
+1468,044015,Pays de la Loire
+1469,044018,Pays de la Loire
+1470,044020,Pays de la Loire
+1471,054099,Grand Est
+1472,044025,Pays de la Loire
+1473,044026,Pays de la Loire
+1474,044032,Pays de la Loire
+1475,054323,Grand Est
+1476,044036,Pays de la Loire
+1477,044043,Pays de la Loire
+1478,044049,Pays de la Loire
+1479,044052,Pays de la Loire
+1480,056078,Bretagne
+1481,044066,Pays de la Loire
+1482,044067,Pays de la Loire
+1483,044070,Pays de la Loire
+1484,056114,Bretagne
+1485,056169,Bretagne
+1486,044082,Pays de la Loire
+1487,044084,Pays de la Loire
+1488,044087,Pays de la Loire
+1489,044088,Pays de la Loire
+1490,060088,Hauts-de-France
+1491,060234,Hauts-de-France
+1492,060463,Hauts-de-France
+1493,044097,Pays de la Loire
+1494,044098,Pays de la Loire
+1495,044101,Pays de la Loire
+1496,044103,Pays de la Loire
+1497,044107,Pays de la Loire
+1498,044110,Pays de la Loire
+1499,044114,Pays de la Loire
+1500,060601,Hauts-de-France
+1501,044116,Pays de la Loire
+1502,063380,Auvergne-Rhône-Alpes
+1503,064024,Nouvelle-Aquitaine
+1504,044120,Pays de la Loire
+1505,066020,Occitanie
+1506,044125,Pays de la Loire
+1507,044126,Pays de la Loire
+1508,069034,Auvergne-Rhône-Alpes
+1509,044130,Pays de la Loire
+1510,044131,Pays de la Loire
+1511,044136,Pays de la Loire
+1512,044144,Pays de la Loire
+1513,044151,Pays de la Loire
+1514,044154,Pays de la Loire
+1515,044158,Pays de la Loire
+1516,044169,Pays de la Loire
+1517,044172,Pays de la Loire
+1518,044176,Pays de la Loire
+1519,044182,Pays de la Loire
+1520,044183,Pays de la Loire
+1521,069069,Auvergne-Rhône-Alpes
+1522,044185,Pays de la Loire
+1523,044186,Pays de la Loire
+1524,044187,Pays de la Loire
+1525,044188,Pays de la Loire
+1526,044189,Pays de la Loire
+1527,044194,Pays de la Loire
+1528,044195,Pays de la Loire
+1529,069072,Auvergne-Rhône-Alpes
+1530,044203,Pays de la Loire
+1531,069142,Auvergne-Rhône-Alpes
+1532,044209,Pays de la Loire
+1533,044210,Pays de la Loire
+1534,069283,Auvergne-Rhône-Alpes
+1535,044211,Pays de la Loire
+1536,044213,Pays de la Loire
+1537,044215,Pays de la Loire
+1538,070310,Bourgogne-Franche-Comté
+1539,044217,Pays de la Loire
+1540,071310,Bourgogne-Franche-Comté
+1541,072260,Pays de la Loire
+1542,073011,Auvergne-Rhône-Alpes
+1543,045004,Centre-Val de Loire
+1544,074215,Auvergne-Rhône-Alpes
+1545,045006,Centre-Val de Loire
+1546,074224,Auvergne-Rhône-Alpes
+1547,074266,Auvergne-Rhône-Alpes
+1548,074276,Auvergne-Rhône-Alpes
+1549,075108,Ile-de-France
+1550,045030,Centre-Val de Loire
+1551,045046,Centre-Val de Loire
+1552,045053,Centre-Val de Loire
+1553,045061,Centre-Val de Loire
+1554,045068,Centre-Val de Loire
+1555,045072,Centre-Val de Loire
+1556,045082,Centre-Val de Loire
+1557,045089,Centre-Val de Loire
+1558,045147,Centre-Val de Loire
+1559,045169,Centre-Val de Loire
+1560,045173,Centre-Val de Loire
+1561,076711,Normandie
+1562,045179,Centre-Val de Loire
+1563,077083,Ile-de-France
+1564,045191,Centre-Val de Loire
+1565,045203,Centre-Val de Loire
+1566,045208,Centre-Val de Loire
+1567,077201,Ile-de-France
+1568,077249,Ile-de-France
+1569,045224,Centre-Val de Loire
+1570,077316,Ile-de-France
+1571,077325,Ile-de-France
+1572,077430,Ile-de-France
+1573,045248,Centre-Val de Loire
+1574,078073,Ile-de-France
+1575,045252,Centre-Val de Loire
+1576,045274,Centre-Val de Loire
+1577,078208,Ile-de-France
+1578,045281,Centre-Val de Loire
+1579,045282,Centre-Val de Loire
+1580,045298,Centre-Val de Loire
+1581,045300,Centre-Val de Loire
+1582,045302,Centre-Val de Loire
+1583,045308,Centre-Val de Loire
+1584,045315,Centre-Val de Loire
+1585,078322,Ile-de-France
+1586,078418,Ile-de-France
+1587,078440,Ile-de-France
+1588,078624,Ile-de-France
+1589,079202,Nouvelle-Aquitaine
+1590,046042,Occitanie
+1591,060482,Hauts-de-France
+1592,062004,Hauts-de-France
+1593,062826,Hauts-de-France
+1594,069387,Auvergne-Rhône-Alpes
+1595,071263,Bourgogne-Franche-Comté
+1596,077305,Ile-de-France
+1597,078118,Ile-de-France
+1598,047001,Nouvelle-Aquitaine
+1599,047004,Nouvelle-Aquitaine
+1600,047031,Nouvelle-Aquitaine
+1601,047052,Nouvelle-Aquitaine
+1602,047055,Nouvelle-Aquitaine
+1603,047069,Nouvelle-Aquitaine
+1604,047106,Nouvelle-Aquitaine
+1605,049328,Pays de la Loire
+1606,047128,Nouvelle-Aquitaine
+1607,059017,Hauts-de-France
+1608,047145,Nouvelle-Aquitaine
+1609,059421,Hauts-de-France
+1610,047157,Nouvelle-Aquitaine
+1611,060197,Hauts-de-France
+1612,062261,Hauts-de-France
+1613,069063,Auvergne-Rhône-Alpes
+1614,047175,Nouvelle-Aquitaine
+1615,069282,Auvergne-Rhône-Alpes
+1616,071106,Bourgogne-Franche-Comté
+1617,073249,Auvergne-Rhône-Alpes
+1618,074012,Auvergne-Rhône-Alpes
+1619,047195,Nouvelle-Aquitaine
+1620,047201,Nouvelle-Aquitaine
+1621,076164,Normandie
+1622,076212,Normandie
+1623,077067,Ile-de-France
+1624,077082,Ile-de-France
+1625,077183,Ile-de-France
+1626,078498,Ile-de-France
+1627,047310,Nouvelle-Aquitaine
+1628,047323,Nouvelle-Aquitaine
+1629,047324,Nouvelle-Aquitaine
+1630,078517,Ile-de-France
+1631,048009,Occitanie
+1632,048027,Occitanie
+1633,048080,Occitanie
+1634,048092,Occitanie
+1635,048095,Occitanie
+1636,048096,Occitanie
+1637,048198,Occitanie
+1638,049023,Pays de la Loire
+1639,049035,Pays de la Loire
+1640,049050,Pays de la Loire
+1641,049090,Pays de la Loire
+1642,049092,Pays de la Loire
+1643,049140,Pays de la Loire
+1644,049194,Pays de la Loire
+1645,049214,Pays de la Loire
+1646,049223,Pays de la Loire
+1647,049246,Pays de la Loire
+1648,049267,Pays de la Loire
+1649,049278,Pays de la Loire
+1650,049283,Pays de la Loire
+1651,049323,Pays de la Loire
+1652,049331,Pays de la Loire
+1653,049343,Pays de la Loire
+1654,049353,Pays de la Loire
+1655,049355,Pays de la Loire
+1656,049377,Pays de la Loire
+1657,050003,Normandie
+1658,050025,Normandie
+1659,050031,Normandie
+1660,050033,Normandie
+1661,050481,Normandie
+1662,054184,Grand Est
+1663,050066,Normandie
+1664,050074,Normandie
+1665,056124,Bretagne
+1666,059163,Hauts-de-France
+1667,050099,Normandie
+1668,062108,Hauts-de-France
+1669,064483,Nouvelle-Aquitaine
+1670,069091,Auvergne-Rhône-Alpes
+1671,069241,Auvergne-Rhône-Alpes
+1672,050165,Normandie
+1673,072132,Pays de la Loire
+1674,074026,Auvergne-Rhône-Alpes
+1675,050215,Normandie
+1676,077350,Ile-de-France
+1677,050236,Normandie
+1678,078224,Ile-de-France
+1679,050267,Normandie
+1680,050356,Normandie
+1681,050391,Normandie
+1682,050394,Normandie
+1683,050403,Normandie
+1684,050410,Normandie
+1685,050412,Normandie
+1686,050484,Normandie
+1687,050562,Normandie
+1688,050615,Normandie
+1689,054533,Grand Est
+1690,056005,Bretagne
+1691,056034,Bretagne
+1692,051028,Grand Est
+1693,051029,Grand Est
+1694,051030,Grand Est
+1695,056258,Bretagne
+1696,051055,Grand Est
+1697,051058,Grand Est
+1698,051065,Grand Est
+1699,059328,Hauts-de-France
+1700,059653,Hauts-de-France
+1701,060578,Hauts-de-France
+1702,063178,Auvergne-Rhône-Alpes
+1703,066008,Occitanie
+1704,069064,Auvergne-Rhône-Alpes
+1705,069121,Auvergne-Rhône-Alpes
+1706,069289,Auvergne-Rhône-Alpes
+1707,069386,Auvergne-Rhône-Alpes
+1708,051152,Grand Est
+1709,051172,Grand Est
+1710,074042,Auvergne-Rhône-Alpes
+1711,051196,Grand Est
+1712,074133,Auvergne-Rhône-Alpes
+1713,051210,Grand Est
+1714,051217,Grand Est
+1715,077222,Ile-de-France
+1716,051250,Grand Est
+1717,051262,Grand Est
+1718,077243,Ile-de-France
+1719,078128,Ile-de-France
+1720,078246,Ile-de-France
+1721,078397,Ile-de-France
+1722,079114,Nouvelle-Aquitaine
+1723,051346,Grand Est
+1724,054205,Grand Est
+1725,054274,Grand Est
+1726,058303,Bourgogne-Franche-Comté
+1727,060360,Hauts-de-France
+1728,062019,Hauts-de-France
+1729,069013,Auvergne-Rhône-Alpes
+1730,069244,Auvergne-Rhône-Alpes
+1731,051474,Grand Est
+1732,069248,Auvergne-Rhône-Alpes
+1733,069275,Auvergne-Rhône-Alpes
+1734,069297,Auvergne-Rhône-Alpes
+1735,070285,Bourgogne-Franche-Comté
+1736,071076,Bourgogne-Franche-Comté
+1737,051506,Grand Est
+1738,051507,Grand Est
+1739,071543,Bourgogne-Franche-Comté
+1740,074081,Auvergne-Rhône-Alpes
+1741,051536,Grand Est
+1742,074164,Auvergne-Rhône-Alpes
+1743,074205,Auvergne-Rhône-Alpes
+1744,074288,Auvergne-Rhône-Alpes
+1745,076057,Normandie
+1746,077122,Ile-de-France
+1747,077131,Ile-de-France
+1748,077215,Ile-de-France
+1749,077337,Ile-de-France
+1750,077389,Ile-de-France
+1751,077407,Ile-de-France
+1752,077483,Ile-de-France
+1753,078356,Ile-de-France
+1754,051643,Grand Est
+1755,051649,Grand Est
+1756,078502,Ile-de-France
+1757,051662,Grand Est
+1758,051663,Grand Est
+1759,052121,Grand Est
+1760,052269,Grand Est
+1761,054482,Grand Est
+1762,054547,Grand Est
+1763,056162,Bretagne
+1764,058134,Bourgogne-Franche-Comté
+1765,059462,Hauts-de-France
+1766,062014,Hauts-de-France
+1767,062758,Hauts-de-France
+1768,064122,Nouvelle-Aquitaine
+1769,069004,Auvergne-Rhône-Alpes
+1770,069202,Auvergne-Rhône-Alpes
+1771,052353,Grand Est
+1772,071014,Bourgogne-Franche-Comté
+1773,071404,Bourgogne-Franche-Comté
+1774,073290,Auvergne-Rhône-Alpes
+1775,073307,Auvergne-Rhône-Alpes
+1776,076596,Normandie
+1777,077327,Ile-de-France
+1778,077377,Ile-de-France
+1779,078123,Ile-de-France
+1780,078242,Ile-de-France
+1781,078335,Ile-de-France
+1782,078361,Ile-de-France
+1783,078402,Ile-de-France
+1784,078642,Ile-de-France
+1785,078674,Ile-de-France
+1786,062139,Hauts-de-France
+1787,070311,Bourgogne-Franche-Comté
+1788,078537,Ile-de-France
+1789,053054,Pays de la Loire
+1790,054234,Grand Est
+1791,054339,Grand Est
+1792,054578,Grand Est
+1793,059329,Hauts-de-France
+1794,053130,Pays de la Loire
+1795,059508,Hauts-de-France
+1796,060141,Hauts-de-France
+1797,053147,Pays de la Loire
+1798,069027,Auvergne-Rhône-Alpes
+1799,069071,Auvergne-Rhône-Alpes
+1800,069199,Auvergne-Rhône-Alpes
+1801,069266,Auvergne-Rhône-Alpes
+1802,053216,Pays de la Loire
+1803,054028,Grand Est
+1804,069286,Auvergne-Rhône-Alpes
+1805,071270,Bourgogne-Franche-Comté
+1806,074085,Auvergne-Rhône-Alpes
+1807,054076,Grand Est
+1808,077022,Ile-de-France
+1809,077100,Ile-de-France
+1810,077372,Ile-de-France
+1811,054090,Grand Est
+1812,077513,Ile-de-France
+1813,078126,Ile-de-France
+1814,054115,Grand Est
+1815,054137,Grand Est
+1816,054138,Grand Est
+1817,054150,Grand Est
+1818,054152,Grand Est
+1819,054162,Grand Est
+1820,054167,Grand Est
+1821,054174,Grand Est
+1822,054215,Grand Est
+1823,054252,Grand Est
+1824,054253,Grand Est
+1825,054254,Grand Est
+1826,054257,Grand Est
+1827,054261,Grand Est
+1828,054431,Grand Est
+1829,054270,Grand Est
+1830,054273,Grand Est
+1831,056118,Bretagne
+1832,056186,Bretagne
+1833,054280,Grand Est
+1834,054300,Grand Est
+1835,060142,Hauts-de-France
+1836,054304,Grand Est
+1837,060644,Hauts-de-France
+1838,069007,Auvergne-Rhône-Alpes
+1839,076410,Normandie
+1840,077121,Ile-de-France
+1841,077390,Ile-de-France
+1842,054321,Grand Est
+1843,054322,Grand Est
+1844,078310,Ile-de-France
+1845,078643,Ile-de-France
+1846,054357,Grand Est
+1847,054364,Grand Est
+1848,054382,Grand Est
+1849,054383,Grand Est
+1850,054426,Grand Est
+1851,054432,Grand Est
+1852,054439,Grand Est
+1853,059360,Hauts-de-France
+1854,054451,Grand Est
+1855,054459,Grand Est
+1856,059599,Hauts-de-France
+1857,054483,Grand Est
+1858,060176,Hauts-de-France
+1859,054493,Grand Est
+1860,060446,Hauts-de-France
+1861,060589,Hauts-de-France
+1862,065481,Occitanie
+1863,069115,Auvergne-Rhône-Alpes
+1864,054518,Grand Est
+1865,069259,Auvergne-Rhône-Alpes
+1866,054521,Grand Est
+1867,054526,Grand Est
+1868,054528,Grand Est
+1869,054536,Grand Est
+1870,054542,Grand Est
+1871,074010,Auvergne-Rhône-Alpes
+1872,054549,Grand Est
+1873,054550,Grand Est
+1874,054580,Grand Est
+1875,054584,Grand Est
+1876,076758,Normandie
+1877,077153,Ile-de-France
+1878,055043,Grand Est
+1879,077202,Ile-de-France
+1880,077384,Ile-de-France
+1881,078314,Ile-de-France
+1882,078442,Ile-de-France
+1883,078455,Ile-de-France
+1884,078616,Ile-de-France
+1885,060584,Hauts-de-France
+1886,062764,Hauts-de-France
+1887,065025,Occitanie
+1888,066171,Occitanie
+1889,069206,Auvergne-Rhône-Alpes
+1890,074134,Auvergne-Rhône-Alpes
+1891,074173,Auvergne-Rhône-Alpes
+1892,076026,Normandie
+1893,077333,Ile-de-France
+1894,078381,Ile-de-France
+1895,056110,Bretagne
+1896,056152,Bretagne
+1897,059043,Hauts-de-France
+1898,059606,Hauts-de-France
+1899,060462,Hauts-de-France
+1900,066037,Occitanie
+1901,066065,Occitanie
+1902,069029,Auvergne-Rhône-Alpes
+1903,069127,Auvergne-Rhône-Alpes
+1904,072264,Pays de la Loire
+1905,074099,Auvergne-Rhône-Alpes
+1906,074201,Auvergne-Rhône-Alpes
+1907,074208,Auvergne-Rhône-Alpes
+1908,074299,Auvergne-Rhône-Alpes
+1909,076329,Normandie
+1910,076637,Normandie
+1911,077085,Ile-de-France
+1912,077171,Ile-de-France
+1913,077347,Ile-de-France
+1914,078160,Ile-de-France
+1915,070388,Bourgogne-Franche-Comté
+1916,076255,Normandie
+1917,077321,Ile-de-France
+1918,078321,Ile-de-France
+1919,055545,Grand Est
+1920,056003,Bretagne
+1921,056010,Bretagne
+1922,056013,Bretagne
+1923,056040,Bretagne
+1924,056054,Bretagne
+1925,056055,Bretagne
+1926,056063,Bretagne
+1927,056090,Bretagne
+1928,056094,Bretagne
+1929,058117,Bourgogne-Franche-Comté
+1930,056098,Bretagne
+1931,059122,Hauts-de-France
+1932,056101,Bretagne
+1933,060282,Hauts-de-France
+1934,062765,Hauts-de-France
+1935,063038,Auvergne-Rhône-Alpes
+1936,069292,Auvergne-Rhône-Alpes
+1937,072231,Pays de la Loire
+1938,076382,Normandie
+1939,077217,Ile-de-France
+1940,077479,Ile-de-France
+1941,056164,Bretagne
+1942,078367,Ile-de-France
+1943,056165,Bretagne
+1944,056168,Bretagne
+1945,079191,Nouvelle-Aquitaine
+1946,056176,Bretagne
+1947,056177,Bretagne
+1948,056178,Bretagne
+1949,056181,Bretagne
+1950,056193,Bretagne
+1951,056206,Bretagne
+1952,056233,Bretagne
+1953,056234,Bretagne
+1954,056241,Bretagne
+1955,056260,Bretagne
+1956,056262,Bretagne
+1957,056263,Bretagne
+1958,059392,Hauts-de-France
+1959,060238,Hauts-de-France
+1960,062193,Hauts-de-France
+1961,063103,Auvergne-Rhône-Alpes
+1962,069271,Auvergne-Rhône-Alpes
+1963,069290,Auvergne-Rhône-Alpes
+1964,074136,Auvergne-Rhône-Alpes
+1965,077018,Ile-de-France
+1966,077268,Ile-de-France
+1967,077382,Ile-de-France
+1968,078029,Ile-de-France
+1969,078262,Ile-de-France
+1970,059196,Hauts-de-France
+1971,059648,Hauts-de-France
+1972,060067,Hauts-de-France
+1973,060156,Hauts-de-France
+1974,060667,Hauts-de-France
+1975,060670,Hauts-de-France
+1976,065286,Occitanie
+1977,066049,Occitanie
+1978,069068,Auvergne-Rhône-Alpes
+1979,069100,Auvergne-Rhône-Alpes
+1980,072003,Pays de la Loire
+1981,073304,Auvergne-Rhône-Alpes
+1982,074104,Auvergne-Rhône-Alpes
+1983,074160,Auvergne-Rhône-Alpes
+1984,074258,Auvergne-Rhône-Alpes
+1985,077240,Ile-de-France
+1986,078562,Ile-de-France
+1987,078672,Ile-de-France
+1988,059566,Hauts-de-France
+1989,062160,Hauts-de-France
+1990,062899,Hauts-de-France
+1991,069085,Auvergne-Rhône-Alpes
+1992,069092,Auvergne-Rhône-Alpes
+1993,069273,Auvergne-Rhône-Alpes
+1994,074123,Auvergne-Rhône-Alpes
+1995,074190,Auvergne-Rhône-Alpes
+1996,077117,Ile-de-France
+1997,077128,Ile-de-France
+1998,077132,Ile-de-France
+1999,077258,Ile-de-France
+2000,077363,Ile-de-France
+2001,078062,Ile-de-France
+2002,078688,Ile-de-France
+2003,059650,Hauts-de-France
+2004,062560,Hauts-de-France
+2005,066182,Occitanie
+2006,069010,Auvergne-Rhône-Alpes
+2007,069028,Auvergne-Rhône-Alpes
+2008,069033,Auvergne-Rhône-Alpes
+2009,069045,Auvergne-Rhône-Alpes
+2010,069107,Auvergne-Rhône-Alpes
+2011,069125,Auvergne-Rhône-Alpes
+2012,073015,Auvergne-Rhône-Alpes
+2013,074290,Auvergne-Rhône-Alpes
+2014,076157,Normandie
+2015,076259,Normandie
+2016,076613,Normandie
+2017,076647,Normandie
+2018,077148,Ile-de-France
+2019,077181,Ile-de-France
+2020,077266,Ile-de-France
+2021,077330,Ile-de-France
+2022,078220,Ile-de-France
+2023,078255,Ile-de-France
+2024,078484,Ile-de-France
+2025,062119,Hauts-de-France
+2026,077294,Ile-de-France
+2027,078057,Ile-de-France
+2028,059005,Hauts-de-France
+2029,059383,Hauts-de-France
+2030,069040,Auvergne-Rhône-Alpes
+2031,069219,Auvergne-Rhône-Alpes
+2032,069256,Auvergne-Rhône-Alpes
+2033,077464,Ile-de-France
+2034,058088,Bourgogne-Franche-Comté
+2035,058095,Bourgogne-Franche-Comté
+2036,062291,Hauts-de-France
+2037,069086,Auvergne-Rhône-Alpes
+2038,077142,Ile-de-France
+2039,077280,Ile-de-France
+2040,060346,Hauts-de-France
+2041,073213,Auvergne-Rhône-Alpes
+2042,077457,Ile-de-France
+2043,078267,Ile-de-France
+2044,065440,Occitanie
+2045,058238,Bourgogne-Franche-Comté
+2046,069009,Auvergne-Rhône-Alpes
+2047,069019,Auvergne-Rhône-Alpes
+2048,073030,Auvergne-Rhône-Alpes
+2049,077055,Ile-de-France
+2050,059014,Hauts-de-France
+2051,059034,Hauts-de-France
+2052,060033,Hauts-de-France
+2053,060471,Hauts-de-France
+2054,060537,Hauts-de-France
+2055,064445,Nouvelle-Aquitaine
+2056,059071,Hauts-de-France
+2057,059090,Hauts-de-France
+2058,065127,Occitanie
+2059,070117,Bourgogne-Franche-Comté
+2060,074225,Auvergne-Rhône-Alpes
+2061,076552,Normandie
+2062,077143,Ile-de-France
+2063,078366,Ile-de-France
+2064,059295,Hauts-de-France
+2065,070473,Bourgogne-Franche-Comté
+2066,059168,Hauts-de-France
+2067,059172,Hauts-de-France
+2068,059173,Hauts-de-France
+2069,059343,Hauts-de-France
+2070,059646,Hauts-de-France
+2071,062525,Hauts-de-France
+2072,069046,Auvergne-Rhône-Alpes
+2073,069196,Auvergne-Rhône-Alpes
+2074,073065,Auvergne-Rhône-Alpes
+2075,078575,Ile-de-France
+2076,059222,Hauts-de-France
+2077,059332,Hauts-de-France
+2078,078090,Ile-de-France
+2079,059278,Hauts-de-France
+2080,059279,Hauts-de-France
+2081,059284,Hauts-de-France
+2082,059286,Hauts-de-France
+2083,074090,Auvergne-Rhône-Alpes
+2084,059299,Hauts-de-France
+2085,078398,Ile-de-France
+2086,078571,Ile-de-France
+2087,069116,Auvergne-Rhône-Alpes
+2088,071153,Bourgogne-Franche-Comté
+2089,077296,Ile-de-France
+2090,077511,Ile-de-France
+2091,079270,Nouvelle-Aquitaine
+2092,059352,Hauts-de-France
+2093,059386,Hauts-de-France
+2094,059660,Hauts-de-France
+2095,060143,Hauts-de-France
+2096,065168,Occitanie
+2097,066124,Occitanie
+2098,070447,Bourgogne-Franche-Comté
+2099,077037,Ile-de-France
+2100,077111,Ile-de-France
+2101,077318,Ile-de-France
+2102,077378,Ile-de-France
+2103,077393,Ile-de-France
+2104,059426,Hauts-de-France
+2105,059456,Hauts-de-France
+2106,059457,Hauts-de-France
+2107,059466,Hauts-de-France
+2108,059482,Hauts-de-France
+2109,069200,Auvergne-Rhône-Alpes
+2110,077431,Ile-de-France
+2111,077517,Ile-de-France
+2112,059507,Hauts-de-France
+2113,060635,Hauts-de-France
+2114,064547,Nouvelle-Aquitaine
+2115,074143,Auvergne-Rhône-Alpes
+2116,059526,Hauts-de-France
+2117,059527,Hauts-de-France
+2118,078089,Ile-de-France
+2119,063430,Auvergne-Rhône-Alpes
+2120,069168,Auvergne-Rhône-Alpes
+2121,069233,Auvergne-Rhône-Alpes
+2122,076599,Normandie
+2123,059560,Hauts-de-France
+2124,059569,Hauts-de-France
+2125,059574,Hauts-de-France
+2126,059586,Hauts-de-France
+2127,069152,Auvergne-Rhône-Alpes
+2128,059603,Hauts-de-France
+2129,077312,Ile-de-France
+2130,077441,Ile-de-France
+2131,059636,Hauts-de-France
+2132,060358,Hauts-de-France
+2133,060652,Hauts-de-France
+2134,069044,Auvergne-Rhône-Alpes
+2135,070428,Bourgogne-Franche-Comté
+2136,060012,Hauts-de-France
+2137,072223,Pays de la Loire
+2138,076108,Normandie
+2139,076276,Normandie
+2140,076540,Normandie
+2141,060025,Hauts-de-France
+2142,060068,Hauts-de-France
+2143,060086,Hauts-de-France
+2144,060119,Hauts-de-France
+2145,077024,Ile-de-France
+2146,077155,Ile-de-France
+2147,077475,Ile-de-France
+2148,060139,Hauts-de-France
+2149,078337,Ile-de-France
+2150,078513,Ile-de-France
+2151,078591,Ile-de-France
+2152,062037,Hauts-de-France
+2153,076575,Normandie
+2154,060172,Hauts-de-France
+2155,060173,Hauts-de-France
+2156,060178,Hauts-de-France
+2157,060338,Hauts-de-France
+2158,064348,Nouvelle-Aquitaine
+2159,069171,Auvergne-Rhône-Alpes
+2160,070378,Bourgogne-Franche-Comté
+2161,078269,Ile-de-France
+2162,078291,Ile-de-France
+2163,070207,Bourgogne-Franche-Comté
+2164,072056,Pays de la Loire
+2165,078403,Ile-de-France
+2166,065138,Occitanie
+2167,078638,Ile-de-France
+2168,060277,Hauts-de-France
+2169,060325,Hauts-de-France
+2170,065031,Occitanie
+2171,069094,Auvergne-Rhône-Alpes
+2172,060330,Hauts-de-France
+2173,076312,Normandie
+2174,060337,Hauts-de-France
+2175,077094,Ile-de-France
+2176,077182,Ile-de-France
+2177,078168,Ile-de-France
+2178,078206,Ile-de-France
+2179,078431,Ile-de-France
+2180,060367,Hauts-de-France
+2181,060398,Hauts-de-France
+2182,060402,Hauts-de-France
+2183,060432,Hauts-de-France
+2184,060439,Hauts-de-France
+2185,071176,Bourgogne-Franche-Comté
+2186,060450,Hauts-de-France
+2187,076384,Normandie
+2188,077004,Ile-de-France
+2189,077332,Ile-de-France
+2190,077420,Ile-de-France
+2191,077437,Ile-de-France
+2192,078138,Ile-de-France
+2193,065123,Occitanie
+2194,069049,Auvergne-Rhône-Alpes
+2195,079081,Nouvelle-Aquitaine
+2196,060489,Hauts-de-France
+2197,060494,Hauts-de-France
+2198,060500,Hauts-de-France
+2199,064385,Nouvelle-Aquitaine
+2200,078120,Ile-de-France
+2201,078420,Ile-de-France
+2202,062270,Hauts-de-France
+2203,065059,Occitanie
+2204,069112,Auvergne-Rhône-Alpes
+2205,076254,Normandie
+2206,060559,Hauts-de-France
+2207,077272,Ile-de-France
+2208,078117,Ile-de-France
+2209,060575,Hauts-de-France
+2210,060665,Hauts-de-France
+2211,065388,Occitanie
+2212,072213,Pays de la Loire
+2213,073054,Auvergne-Rhône-Alpes
+2214,077125,Ile-de-France
+2215,078520,Ile-de-France
+2216,060636,Hauts-de-France
+2217,062445,Hauts-de-France
+2218,064519,Nouvelle-Aquitaine
+2219,069032,Auvergne-Rhône-Alpes
+2220,069191,Auvergne-Rhône-Alpes
+2221,070561,Bourgogne-Franche-Comté
+2222,072071,Pays de la Loire
+2223,073006,Auvergne-Rhône-Alpes
+2224,077344,Ile-de-France
+2225,078327,Ile-de-France
+2226,060666,Hauts-de-France
+2227,060695,Hauts-de-France
+2228,061001,Normandie
+2229,065384,Occitanie
+2230,066136,Occitanie
+2231,069277,Auvergne-Rhône-Alpes
+2232,064304,Nouvelle-Aquitaine
+2233,069031,Auvergne-Rhône-Alpes
+2234,076322,Normandie
+2235,076498,Normandie
+2236,077044,Ile-de-France
+2237,069287,Auvergne-Rhône-Alpes
+2238,076429,Normandie
+2239,076476,Normandie
+2240,062065,Hauts-de-France
+2241,062587,Hauts-de-France
+2242,069067,Auvergne-Rhône-Alpes
+2243,061169,Normandie
+2244,079124,Nouvelle-Aquitaine
+2245,062099,Hauts-de-France
+2246,064371,Nouvelle-Aquitaine
+2247,069208,Auvergne-Rhône-Alpes
+2248,069388,Auvergne-Rhône-Alpes
+2249,073157,Auvergne-Rhône-Alpes
+2250,076103,Normandie
+2251,078087,Ile-de-France
+2252,071342,Bourgogne-Franche-Comté
+2253,077226,Ile-de-France
+2254,065417,Occitanie
+2255,069260,Auvergne-Rhône-Alpes
+2256,069265,Auvergne-Rhône-Alpes
+2257,072180,Pays de la Loire
+2258,074040,Auvergne-Rhône-Alpes
+2259,077127,Ile-de-France
+2260,077349,Ile-de-France
+2261,077455,Ile-de-France
+2262,066212,Occitanie
+2263,069006,Auvergne-Rhône-Alpes
+2264,073296,Auvergne-Rhône-Alpes
+2265,073023,Auvergne-Rhône-Alpes
+2266,077510,Ile-de-France
+2267,066213,Occitanie
+2268,074082,Auvergne-Rhône-Alpes
+2269,061483,Normandie
+2270,069215,Auvergne-Rhône-Alpes
+2271,074185,Auvergne-Rhône-Alpes
+2272,074298,Auvergne-Rhône-Alpes
+2273,078152,Ile-de-France
+2274,078486,Ile-de-France
+2275,073031,Auvergne-Rhône-Alpes
+2276,071120,Bourgogne-Franche-Comté
+2277,073176,Auvergne-Rhône-Alpes
+2278,078683,Ile-de-France
+2279,066017,Occitanie
+2280,062040,Hauts-de-France
+2281,063241,Auvergne-Rhône-Alpes
+2282,064422,Nouvelle-Aquitaine
+2283,073182,Auvergne-Rhône-Alpes
+2284,076497,Normandie
+2285,077114,Ile-de-France
+2286,062126,Hauts-de-France
+2287,064339,Nouvelle-Aquitaine
+2288,069294,Auvergne-Rhône-Alpes
+2289,064100,Nouvelle-Aquitaine
+2290,064409,Nouvelle-Aquitaine
+2291,073114,Auvergne-Rhône-Alpes
+2292,073227,Auvergne-Rhône-Alpes
+2293,074305,Auvergne-Rhône-Alpes
+2294,077436,Ile-de-France
+2295,064189,Nouvelle-Aquitaine
+2296,065295,Occitanie
+2297,074069,Auvergne-Rhône-Alpes
+2298,074153,Auvergne-Rhône-Alpes
+2299,078623,Ile-de-France
+2300,062128,Hauts-de-France
+2301,069276,Auvergne-Rhône-Alpes
+2302,074243,Auvergne-Rhône-Alpes
+2303,077237,Ile-de-France
+2304,064463,Nouvelle-Aquitaine
+2305,065199,Occitanie
+2306,066002,Occitanie
+2307,077163,Ile-de-France
+2308,078133,Ile-de-France
+2309,062413,Hauts-de-France
+2310,069076,Auvergne-Rhône-Alpes
+2311,069284,Auvergne-Rhône-Alpes
+2312,073329,Auvergne-Rhône-Alpes
+2313,074213,Auvergne-Rhône-Alpes
+2314,077139,Ile-de-France
+2315,062215,Hauts-de-France
+2316,069111,Auvergne-Rhône-Alpes
+2317,069122,Auvergne-Rhône-Alpes
+2318,073010,Auvergne-Rhône-Alpes
+2319,073132,Auvergne-Rhône-Alpes
+2320,073300,Auvergne-Rhône-Alpes
+2321,064417,Nouvelle-Aquitaine
+2322,077146,Ile-de-France
+2323,077339,Ile-de-France
+2324,078189,Ile-de-France
+2325,064256,Nouvelle-Aquitaine
+2326,065017,Occitanie
+2327,066059,Occitanie
+2328,077175,Ile-de-France
+2329,062528,Hauts-de-France
+2330,064132,Nouvelle-Aquitaine
+2331,064204,Nouvelle-Aquitaine
+2332,064320,Nouvelle-Aquitaine
+2333,064430,Nouvelle-Aquitaine
+2334,066164,Occitanie
+2335,069141,Auvergne-Rhône-Alpes
+2336,069189,Auvergne-Rhône-Alpes
+2337,072154,Pays de la Loire
+2338,074080,Auvergne-Rhône-Alpes
+2339,074183,Auvergne-Rhône-Alpes
+2340,074294,Auvergne-Rhône-Alpes
+2341,076681,Normandie
+2342,077474,Ile-de-France
+2343,073317,Auvergne-Rhône-Alpes
+2344,076231,Normandie
+2345,064129,Nouvelle-Aquitaine
+2346,064405,Nouvelle-Aquitaine
+2347,073179,Auvergne-Rhône-Alpes
+2348,073243,Auvergne-Rhône-Alpes
+2349,074284,Auvergne-Rhône-Alpes
+2350,064284,Nouvelle-Aquitaine
+2351,072013,Pays de la Loire
+2352,073206,Auvergne-Rhône-Alpes
+2353,077209,Ile-de-France
+2354,062473,Hauts-de-France
+2355,074280,Auvergne-Rhône-Alpes
+2356,076165,Normandie
+2357,076705,Normandie
+2358,077292,Ile-de-France
+2359,078451,Ile-de-France
+2360,069201,Auvergne-Rhône-Alpes
+2361,069207,Auvergne-Rhône-Alpes
+2362,069238,Auvergne-Rhône-Alpes
+2363,069296,Auvergne-Rhône-Alpes
+2364,071221,Bourgogne-Franche-Comté
+2365,073024,Auvergne-Rhône-Alpes
+2366,074087,Auvergne-Rhône-Alpes
+2367,076305,Normandie
+2368,077107,Ile-de-France
+2369,062744,Hauts-de-France
+2370,064335,Nouvelle-Aquitaine
+2371,069024,Auvergne-Rhône-Alpes
+2372,069154,Auvergne-Rhône-Alpes
+2373,069235,Auvergne-Rhône-Alpes
+2374,074108,Auvergne-Rhône-Alpes
+2375,074241,Auvergne-Rhône-Alpes
+2376,077369,Ile-de-France
+2377,077433,Ile-de-France
+2378,064237,Nouvelle-Aquitaine
+2379,064269,Nouvelle-Aquitaine
+2380,064410,Nouvelle-Aquitaine
+2381,069288,Auvergne-Rhône-Alpes
+2382,074169,Auvergne-Rhône-Alpes
+2383,076216,Normandie
+2384,077447,Ile-de-France
+2385,077521,Ile-de-France
+2386,074089,Auvergne-Rhône-Alpes
+2387,069194,Auvergne-Rhône-Alpes
+2388,069249,Auvergne-Rhône-Alpes
+2389,069293,Auvergne-Rhône-Alpes
+2390,073029,Auvergne-Rhône-Alpes
+2391,078233,Ile-de-France
+2392,062609,Hauts-de-France
+2393,069250,Auvergne-Rhône-Alpes
+2394,070026,Bourgogne-Franche-Comté
+2395,076474,Normandie
+2396,078565,Ile-de-France
+2397,062571,Hauts-de-France
+2398,062427,Hauts-de-France
+2399,062895,Hauts-de-France
+2400,065002,Occitanie
+2401,065465,Occitanie
+2402,069136,Auvergne-Rhône-Alpes
+2403,072241,Pays de la Loire
+2404,073013,Auvergne-Rhône-Alpes
+2405,074006,Auvergne-Rhône-Alpes
+2406,074007,Auvergne-Rhône-Alpes
+2407,077177,Ile-de-France
+2408,077335,Ile-de-France
+2409,077462,Ile-de-France
+2410,078644,Ile-de-France
+2411,079130,Nouvelle-Aquitaine
+2412,069080,Auvergne-Rhône-Alpes
+2413,076114,Normandie
+2414,077238,Ile-de-France
+2415,069036,Auvergne-Rhône-Alpes
+2416,074112,Auvergne-Rhône-Alpes
+2417,077062,Ile-de-France
+2418,077531,Ile-de-France
+2419,064374,Nouvelle-Aquitaine
+2420,064416,Nouvelle-Aquitaine
+2421,066187,Occitanie
+2422,069173,Auvergne-Rhône-Alpes
+2423,069268,Auvergne-Rhône-Alpes
+2424,077081,Ile-de-France
+2425,062785,Hauts-de-France
+2426,069043,Auvergne-Rhône-Alpes
+2427,074088,Auvergne-Rhône-Alpes
+2428,074250,Auvergne-Rhône-Alpes
+2429,077001,Ile-de-France
+2430,077221,Ile-de-France
+2431,078043,Ile-de-France
+2432,069126,Auvergne-Rhône-Alpes
+2433,076640,Normandie
+2434,076752,Normandie
+2435,062498,Hauts-de-France
+2436,063098,Auvergne-Rhône-Alpes
+2437,064467,Nouvelle-Aquitaine
+2438,064511,Nouvelle-Aquitaine
+2439,066082,Occitanie
+2440,071306,Bourgogne-Franche-Comté
+2441,076406,Normandie
+2442,077077,Ile-de-France
+2443,063285,Auvergne-Rhône-Alpes
+2444,069056,Auvergne-Rhône-Alpes
+2445,072269,Pays de la Loire
+2446,076005,Normandie
+2447,064040,Nouvelle-Aquitaine
+2448,079049,Nouvelle-Aquitaine
+2449,064198,Nouvelle-Aquitaine
+2450,071137,Bourgogne-Franche-Comté
+2451,074212,Auvergne-Rhône-Alpes
+2452,076095,Normandie
+2453,077317,Ile-de-France
+2454,078193,Ile-de-France
+2455,078238,Ile-de-France
+2456,064493,Nouvelle-Aquitaine
+2457,064522,Nouvelle-Aquitaine
+2458,064538,Nouvelle-Aquitaine
+2459,066154,Occitanie
+2460,071475,Bourgogne-Franche-Comté
+2461,066024,Occitanie
+2462,077374,Ile-de-France
+2463,077458,Ile-de-France
+2464,071040,Bourgogne-Franche-Comté
+2465,072299,Pays de la Loire
+2466,078522,Ile-de-France
+2467,077232,Ile-de-France
+2468,077435,Ile-de-France
+2469,069291,Auvergne-Rhône-Alpes
+2470,069298,Auvergne-Rhône-Alpes
+2471,070116,Bourgogne-Franche-Comté
+2472,071073,Bourgogne-Franche-Comté
+2473,072029,Pays de la Loire
+2474,071479,Bourgogne-Franche-Comté
+2475,071486,Bourgogne-Franche-Comté
+2476,072084,Pays de la Loire
+2477,078354,Ile-de-France
+2478,074016,Auvergne-Rhône-Alpes
+2479,074309,Auvergne-Rhône-Alpes
+2480,078474,Ile-de-France
+2481,074137,Auvergne-Rhône-Alpes
+2482,074176,Auvergne-Rhône-Alpes
+2483,076325,Normandie
+2484,076141,Normandie
+2485,076743,Normandie
+2486,077453,Ile-de-France
+2487,077425,Ile-de-France
+2488,078143,Ile-de-France
+2489,080001,Hauts-de-France
+2490,080010,Hauts-de-France
+2491,080016,Hauts-de-France
+2492,080021,Hauts-de-France
+2493,080039,Hauts-de-France
+2494,080164,Hauts-de-France
+2495,080182,Hauts-de-France
+2496,080212,Hauts-de-France
+2497,080228,Hauts-de-France
+2498,080253,Hauts-de-France
+2499,080333,Hauts-de-France
+2500,080368,Hauts-de-France
+2501,080489,Hauts-de-France
+2502,080524,Hauts-de-France
+2503,080533,Hauts-de-France
+2504,080620,Hauts-de-France
+2505,080627,Hauts-de-France
+2506,080649,Hauts-de-France
+2507,080685,Hauts-de-France
+2508,080702,Hauts-de-France
+2509,080721,Hauts-de-France
+2510,080826,Hauts-de-France
+2511,081004,Occitanie
+2512,081065,Occitanie
+2513,081145,Occitanie
+2514,081163,Occitanie
+2515,081257,Occitanie
+2516,081271,Occitanie
+2517,082013,Occitanie
+2518,082033,Occitanie
+2519,082037,Occitanie
+2520,082075,Occitanie
+2521,082096,Occitanie
+2522,082112,Occitanie
+2523,082121,Occitanie
+2524,082124,Occitanie
+2525,082125,Occitanie
+2526,082155,Occitanie
+2527,082161,Occitanie
+2528,082190,Occitanie
+2529,083001,Provence-Alpes-Côte d'Azur
+2530,083004,Provence-Alpes-Côte d'Azur
+2531,083008,Provence-Alpes-Côte d'Azur
+2532,083009,Provence-Alpes-Côte d'Azur
+2533,083011,Provence-Alpes-Côte d'Azur
+2534,083012,Provence-Alpes-Côte d'Azur
+2535,083016,Provence-Alpes-Côte d'Azur
+2536,083017,Provence-Alpes-Côte d'Azur
+2537,083019,Provence-Alpes-Côte d'Azur
+2538,083023,Provence-Alpes-Côte d'Azur
+2539,083026,Provence-Alpes-Côte d'Azur
+2540,083027,Provence-Alpes-Côte d'Azur
+2541,083029,Provence-Alpes-Côte d'Azur
+2542,083031,Provence-Alpes-Côte d'Azur
+2543,083033,Provence-Alpes-Côte d'Azur
+2544,083034,Provence-Alpes-Côte d'Azur
+2545,083035,Provence-Alpes-Côte d'Azur
+2546,083036,Provence-Alpes-Côte d'Azur
+2547,083041,Provence-Alpes-Côte d'Azur
+2548,083042,Provence-Alpes-Côte d'Azur
+2549,083043,Provence-Alpes-Côte d'Azur
+2550,083047,Provence-Alpes-Côte d'Azur
+2551,083048,Provence-Alpes-Côte d'Azur
+2552,083049,Provence-Alpes-Côte d'Azur
+2553,083050,Provence-Alpes-Côte d'Azur
+2554,083051,Provence-Alpes-Côte d'Azur
+2555,083053,Provence-Alpes-Côte d'Azur
+2556,083054,Provence-Alpes-Côte d'Azur
+2557,083055,Provence-Alpes-Côte d'Azur
+2558,083061,Provence-Alpes-Côte d'Azur
+2559,083062,Provence-Alpes-Côte d'Azur
+2560,083064,Provence-Alpes-Côte d'Azur
+2561,083067,Provence-Alpes-Côte d'Azur
+2562,083068,Provence-Alpes-Côte d'Azur
+2563,083069,Provence-Alpes-Côte d'Azur
+2564,083070,Provence-Alpes-Côte d'Azur
+2565,083071,Provence-Alpes-Côte d'Azur
+2566,083072,Provence-Alpes-Côte d'Azur
+2567,083073,Provence-Alpes-Côte d'Azur
+2568,083081,Provence-Alpes-Côte d'Azur
+2569,083082,Provence-Alpes-Côte d'Azur
+2570,083083,Provence-Alpes-Côte d'Azur
+2571,083086,Provence-Alpes-Côte d'Azur
+2572,083090,Provence-Alpes-Côte d'Azur
+2573,083091,Provence-Alpes-Côte d'Azur
+2574,083098,Provence-Alpes-Côte d'Azur
+2575,083099,Provence-Alpes-Côte d'Azur
+2576,083100,Provence-Alpes-Côte d'Azur
+2577,083101,Provence-Alpes-Côte d'Azur
+2578,083103,Provence-Alpes-Côte d'Azur
+2579,083104,Provence-Alpes-Côte d'Azur
+2580,083106,Provence-Alpes-Côte d'Azur
+2581,083107,Provence-Alpes-Côte d'Azur
+2582,083110,Provence-Alpes-Côte d'Azur
+2583,083112,Provence-Alpes-Côte d'Azur
+2584,083115,Provence-Alpes-Côte d'Azur
+2585,083116,Provence-Alpes-Côte d'Azur
+2586,083118,Provence-Alpes-Côte d'Azur
+2587,083119,Provence-Alpes-Côte d'Azur
+2588,083121,Provence-Alpes-Côte d'Azur
+2589,083123,Provence-Alpes-Côte d'Azur
+2590,083124,Provence-Alpes-Côte d'Azur
+2591,083126,Provence-Alpes-Côte d'Azur
+2592,083127,Provence-Alpes-Côte d'Azur
+2593,083129,Provence-Alpes-Côte d'Azur
+2594,083130,Provence-Alpes-Côte d'Azur
+2595,083131,Provence-Alpes-Côte d'Azur
+2596,083132,Provence-Alpes-Côte d'Azur
+2597,083137,Provence-Alpes-Côte d'Azur
+2598,083138,Provence-Alpes-Côte d'Azur
+2599,083139,Provence-Alpes-Côte d'Azur
+2600,083140,Provence-Alpes-Côte d'Azur
+2601,083144,Provence-Alpes-Côte d'Azur
+2602,083148,Provence-Alpes-Côte d'Azur
+2603,083153,Provence-Alpes-Côte d'Azur
+2604,084003,Provence-Alpes-Côte d'Azur
+2605,084004,Provence-Alpes-Côte d'Azur
+2606,084007,Provence-Alpes-Côte d'Azur
+2607,084008,Provence-Alpes-Côte d'Azur
+2608,084009,Provence-Alpes-Côte d'Azur
+2609,084012,Provence-Alpes-Côte d'Azur
+2610,084016,Provence-Alpes-Côte d'Azur
+2611,084017,Provence-Alpes-Côte d'Azur
+2612,084019,Provence-Alpes-Côte d'Azur
+2613,084030,Provence-Alpes-Côte d'Azur
+2614,084031,Provence-Alpes-Côte d'Azur
+2615,084035,Provence-Alpes-Côte d'Azur
+2616,084036,Provence-Alpes-Côte d'Azur
+2617,084037,Provence-Alpes-Côte d'Azur
+2618,084039,Provence-Alpes-Côte d'Azur
+2619,084043,Provence-Alpes-Côte d'Azur
+2620,084054,Provence-Alpes-Côte d'Azur
+2621,084056,Provence-Alpes-Côte d'Azur
+2622,084065,Provence-Alpes-Côte d'Azur
+2623,084069,Provence-Alpes-Côte d'Azur
+2624,084070,Provence-Alpes-Côte d'Azur
+2625,084074,Provence-Alpes-Côte d'Azur
+2626,084080,Provence-Alpes-Côte d'Azur
+2627,084081,Provence-Alpes-Côte d'Azur
+2628,084083,Provence-Alpes-Côte d'Azur
+2629,084087,Provence-Alpes-Côte d'Azur
+2630,084088,Provence-Alpes-Côte d'Azur
+2631,084089,Provence-Alpes-Côte d'Azur
+2632,084092,Provence-Alpes-Côte d'Azur
+2633,084106,Provence-Alpes-Côte d'Azur
+2634,084118,Provence-Alpes-Côte d'Azur
+2635,084122,Provence-Alpes-Côte d'Azur
+2636,084124,Provence-Alpes-Côte d'Azur
+2637,084127,Provence-Alpes-Côte d'Azur
+2638,084129,Provence-Alpes-Côte d'Azur
+2639,084132,Provence-Alpes-Côte d'Azur
+2640,084133,Provence-Alpes-Côte d'Azur
+2641,084136,Provence-Alpes-Côte d'Azur
+2642,084137,Provence-Alpes-Côte d'Azur
+2643,084141,Provence-Alpes-Côte d'Azur
+2644,084144,Provence-Alpes-Côte d'Azur
+2645,084147,Provence-Alpes-Côte d'Azur
+2646,084150,Provence-Alpes-Côte d'Azur
+2647,085001,Pays de la Loire
+2648,085011,Pays de la Loire
+2649,085012,Pays de la Loire
+2650,085018,Pays de la Loire
+2651,085035,Pays de la Loire
+2652,085038,Pays de la Loire
+2653,085047,Pays de la Loire
+2654,085051,Pays de la Loire
+2655,085084,Pays de la Loire
+2656,085092,Pays de la Loire
+2657,085109,Pays de la Loire
+2658,085114,Pays de la Loire
+2659,085127,Pays de la Loire
+2660,085128,Pays de la Loire
+2661,085146,Pays de la Loire
+2662,085151,Pays de la Loire
+2663,085152,Pays de la Loire
+2664,085163,Pays de la Loire
+2665,085164,Pays de la Loire
+2666,085190,Pays de la Loire
+2667,085191,Pays de la Loire
+2668,085194,Pays de la Loire
+2669,085215,Pays de la Loire
+2670,085222,Pays de la Loire
+2671,085226,Pays de la Loire
+2672,085234,Pays de la Loire
+2673,085262,Pays de la Loire
+2674,085278,Pays de la Loire
+2675,085288,Pays de la Loire
+2676,085294,Pays de la Loire
+2677,085298,Pays de la Loire
+2678,085307,Pays de la Loire
+2679,086034,Nouvelle-Aquitaine
+2680,086041,Nouvelle-Aquitaine
+2681,086062,Nouvelle-Aquitaine
+2682,086066,Nouvelle-Aquitaine
+2683,086070,Nouvelle-Aquitaine
+2684,086100,Nouvelle-Aquitaine
+2685,086157,Nouvelle-Aquitaine
+2686,086194,Nouvelle-Aquitaine
+2687,086207,Nouvelle-Aquitaine
+2688,087014,Nouvelle-Aquitaine
+2689,087050,Nouvelle-Aquitaine
+2690,087075,Nouvelle-Aquitaine
+2691,087085,Nouvelle-Aquitaine
+2692,087161,Nouvelle-Aquitaine
+2693,087187,Nouvelle-Aquitaine
+2694,088075,Grand Est
+2695,088081,Grand Est
+2696,088087,Grand Est
+2697,088101,Grand Est
+2698,088114,Grand Est
+2699,088116,Grand Est
+2700,088122,Grand Est
+2701,088126,Grand Est
+2702,088132,Grand Est
+2703,088160,Grand Est
+2704,088177,Grand Est
+2705,088178,Grand Est
+2706,088181,Grand Est
+2707,088196,Grand Est
+2708,088198,Grand Est
+2709,088201,Grand Est
+2710,088209,Grand Est
+2711,088225,Grand Est
+2712,088253,Grand Est
+2713,088262,Grand Est
+2714,088270,Grand Est
+2715,088273,Grand Est
+2716,088304,Grand Est
+2717,088319,Grand Est
+2718,088321,Grand Est
+2719,088341,Grand Est
+2720,088347,Grand Est
+2721,088349,Grand Est
+2722,088358,Grand Est
+2723,088367,Grand Est
+2724,088369,Grand Est
+2725,088372,Grand Est
+2726,088383,Grand Est
+2727,088408,Grand Est
+2728,088413,Grand Est
+2729,088415,Grand Est
+2730,088424,Grand Est
+2731,088429,Grand Est
+2732,088442,Grand Est
+2733,088445,Grand Est
+2734,088465,Grand Est
+2735,088468,Grand Est
+2736,088486,Grand Est
+2737,088500,Grand Est
+2738,088516,Grand Est
+2739,088531,Grand Est
+2740,089024,Bourgogne-Franche-Comté
+2741,089025,Bourgogne-Franche-Comté
+2742,089100,Bourgogne-Franche-Comté
+2743,089102,Bourgogne-Franche-Comté
+2744,089239,Bourgogne-Franche-Comté
+2745,089267,Bourgogne-Franche-Comté
+2746,089287,Bourgogne-Franche-Comté
+2747,089338,Bourgogne-Franche-Comté
+2748,089346,Bourgogne-Franche-Comté
+2749,089370,Bourgogne-Franche-Comté
+2750,089380,Bourgogne-Franche-Comté
+2751,089387,Bourgogne-Franche-Comté
+2752,089414,Bourgogne-Franche-Comté
+2753,089418,Bourgogne-Franche-Comté
+2754,089438,Bourgogne-Franche-Comté
+2755,089464,Bourgogne-Franche-Comté
+2756,090009,Bourgogne-Franche-Comté
+2757,090010,Bourgogne-Franche-Comté
+2758,090075,Bourgogne-Franche-Comté
+2759,091016,Ile-de-France
+2760,091017,Ile-de-France
+2761,091021,Ile-de-France
+2762,091027,Ile-de-France
+2763,091044,Ile-de-France
+2764,091045,Ile-de-France
+2765,091047,Ile-de-France
+2766,091064,Ile-de-France
+2767,091080,Ile-de-France
+2768,091085,Ile-de-France
+2769,091086,Ile-de-France
+2770,091095,Ile-de-France
+2771,091097,Ile-de-France
+2772,091099,Ile-de-France
+2773,091103,Ile-de-France
+2774,091105,Ile-de-France
+2775,091109,Ile-de-France
+2776,091111,Ile-de-France
+2777,091114,Ile-de-France
+2778,091115,Ile-de-France
+2779,091122,Ile-de-France
+2780,091129,Ile-de-France
+2781,091132,Ile-de-France
+2782,091135,Ile-de-France
+2783,091136,Ile-de-France
+2784,091156,Ile-de-France
+2785,091161,Ile-de-France
+2786,091174,Ile-de-France
+2787,091175,Ile-de-France
+2788,091179,Ile-de-France
+2789,091180,Ile-de-France
+2790,091191,Ile-de-France
+2791,091198,Ile-de-France
+2792,091200,Ile-de-France
+2793,091201,Ile-de-France
+2794,091207,Ile-de-France
+2795,091215,Ile-de-France
+2796,091216,Ile-de-France
+2797,091223,Ile-de-France
+2798,091225,Ile-de-France
+2799,091226,Ile-de-France
+2800,091228,Ile-de-France
+2801,091232,Ile-de-France
+2802,091235,Ile-de-France
+2803,091244,Ile-de-France
+2804,091249,Ile-de-France
+2805,091272,Ile-de-France
+2806,091274,Ile-de-France
+2807,091275,Ile-de-France
+2808,091286,Ile-de-France
+2809,091293,Ile-de-France
+2810,091312,Ile-de-France
+2811,091315,Ile-de-France
+2812,091326,Ile-de-France
+2813,091330,Ile-de-France
+2814,091332,Ile-de-France
+2815,091333,Ile-de-France
+2816,091338,Ile-de-France
+2817,091339,Ile-de-France
+2818,091340,Ile-de-France
+2819,091345,Ile-de-France
+2820,091347,Ile-de-France
+2821,091359,Ile-de-France
+2822,091363,Ile-de-France
+2823,091376,Ile-de-France
+2824,091377,Ile-de-France
+2825,091386,Ile-de-France
+2826,091405,Ile-de-France
+2827,091421,Ile-de-France
+2828,091425,Ile-de-France
+2829,091432,Ile-de-France
+2830,091433,Ile-de-France
+2831,091434,Ile-de-France
+2832,091457,Ile-de-France
+2833,091458,Ile-de-France
+2834,091461,Ile-de-France
+2835,091468,Ile-de-France
+2836,091469,Ile-de-France
+2837,091471,Ile-de-France
+2838,091477,Ile-de-France
+2839,091479,Ile-de-France
+2840,091494,Ile-de-France
+2841,091511,Ile-de-France
+2842,091514,Ile-de-France
+2843,091521,Ile-de-France
+2844,091525,Ile-de-France
+2845,091533,Ile-de-France
+2846,091534,Ile-de-France
+2847,091546,Ile-de-France
+2848,091549,Ile-de-France
+2849,091552,Ile-de-France
+2850,091553,Ile-de-France
+2851,091560,Ile-de-France
+2852,091570,Ile-de-France
+2853,091573,Ile-de-France
+2854,091577,Ile-de-France
+2855,091579,Ile-de-France
+2856,091581,Ile-de-France
+2857,091587,Ile-de-France
+2858,091589,Ile-de-France
+2859,091599,Ile-de-France
+2860,091600,Ile-de-France
+2861,091617,Ile-de-France
+2862,091630,Ile-de-France
+2863,091631,Ile-de-France
+2864,091634,Ile-de-France
+2865,091639,Ile-de-France
+2866,091645,Ile-de-France
+2867,091648,Ile-de-France
+2868,091649,Ile-de-France
+2869,091657,Ile-de-France
+2870,091659,Ile-de-France
+2871,091661,Ile-de-France
+2872,091665,Ile-de-France
+2873,091666,Ile-de-France
+2874,091667,Ile-de-France
+2875,091671,Ile-de-France
+2876,091679,Ile-de-France
+2877,091685,Ile-de-France
+2878,091687,Ile-de-France
+2879,091689,Ile-de-France
+2880,091691,Ile-de-France
+2881,091692,Ile-de-France
+2882,092002,Ile-de-France
+2883,092004,Ile-de-France
+2884,092007,Ile-de-France
+2885,092009,Ile-de-France
+2886,092012,Ile-de-France
+2887,092014,Ile-de-France
+2888,092019,Ile-de-France
+2889,092020,Ile-de-France
+2890,092022,Ile-de-France
+2891,092023,Ile-de-France
+2892,092024,Ile-de-France
+2893,092025,Ile-de-France
+2894,092026,Ile-de-France
+2895,092032,Ile-de-France
+2896,092033,Ile-de-France
+2897,092035,Ile-de-France
+2898,092036,Ile-de-France
+2899,092040,Ile-de-France
+2900,092044,Ile-de-France
+2901,092046,Ile-de-France
+2902,092048,Ile-de-France
+2903,092049,Ile-de-France
+2904,092050,Ile-de-France
+2905,092051,Ile-de-France
+2906,092060,Ile-de-France
+2907,092062,Ile-de-France
+2908,092063,Ile-de-France
+2909,092064,Ile-de-France
+2910,092071,Ile-de-France
+2911,092072,Ile-de-France
+2912,092073,Ile-de-France
+2913,092075,Ile-de-France
+2914,092076,Ile-de-France
+2915,092077,Ile-de-France
+2916,092078,Ile-de-France
+2917,093001,Ile-de-France
+2918,093005,Ile-de-France
+2919,093006,Ile-de-France
+2920,093007,Ile-de-France
+2921,093008,Ile-de-France
+2922,093010,Ile-de-France
+2923,093013,Ile-de-France
+2924,093014,Ile-de-France
+2925,093015,Ile-de-France
+2926,093027,Ile-de-France
+2927,093029,Ile-de-France
+2928,093030,Ile-de-France
+2929,093031,Ile-de-France
+2930,093032,Ile-de-France
+2931,093033,Ile-de-France
+2932,093039,Ile-de-France
+2933,093045,Ile-de-France
+2934,093046,Ile-de-France
+2935,093047,Ile-de-France
+2936,093048,Ile-de-France
+2937,093049,Ile-de-France
+2938,093050,Ile-de-France
+2939,093051,Ile-de-France
+2940,093053,Ile-de-France
+2941,093055,Ile-de-France
+2942,093057,Ile-de-France
+2943,093059,Ile-de-France
+2944,093061,Ile-de-France
+2945,093062,Ile-de-France
+2946,093063,Ile-de-France
+2947,093064,Ile-de-France
+2948,093066,Ile-de-France
+2949,093070,Ile-de-France
+2950,093071,Ile-de-France
+2951,093072,Ile-de-France
+2952,093073,Ile-de-France
+2953,093074,Ile-de-France
+2954,093077,Ile-de-France
+2955,093078,Ile-de-France
+2956,093079,Ile-de-France
+2957,094001,Ile-de-France
+2958,094002,Ile-de-France
+2959,094003,Ile-de-France
+2960,094004,Ile-de-France
+2961,094011,Ile-de-France
+2962,094015,Ile-de-France
+2963,094016,Ile-de-France
+2964,094017,Ile-de-France
+2965,094018,Ile-de-France
+2966,094019,Ile-de-France
+2967,094021,Ile-de-France
+2968,094022,Ile-de-France
+2969,094028,Ile-de-France
+2970,094033,Ile-de-France
+2971,094034,Ile-de-France
+2972,094037,Ile-de-France
+2973,094038,Ile-de-France
+2974,094041,Ile-de-France
+2975,094042,Ile-de-France
+2976,094043,Ile-de-France
+2977,094044,Ile-de-France
+2978,094046,Ile-de-France
+2979,094047,Ile-de-France
+2980,094048,Ile-de-France
+2981,094052,Ile-de-France
+2982,094053,Ile-de-France
+2983,094054,Ile-de-France
+2984,094055,Ile-de-France
+2985,094056,Ile-de-France
+2986,094058,Ile-de-France
+2987,094059,Ile-de-France
+2988,094060,Ile-de-France
+2989,094065,Ile-de-France
+2990,094067,Ile-de-France
+2991,094068,Ile-de-France
+2992,094069,Ile-de-France
+2993,094070,Ile-de-France
+2994,094071,Ile-de-France
+2995,094073,Ile-de-France
+2996,094074,Ile-de-France
+2997,094075,Ile-de-France
+2998,094076,Ile-de-France
+2999,094077,Ile-de-France
+3000,094078,Ile-de-France
+3001,094079,Ile-de-France
+3002,094080,Ile-de-France
+3003,094081,Ile-de-France
+3004,095014,Ile-de-France
+3005,095018,Ile-de-France
+3006,095019,Ile-de-France
+3007,095026,Ile-de-France
+3008,095039,Ile-de-France
+3009,095042,Ile-de-France
+3010,095051,Ile-de-France
+3011,095052,Ile-de-France
+3012,095056,Ile-de-France
+3013,095060,Ile-de-France
+3014,095063,Ile-de-France
+3015,095078,Ile-de-France
+3016,095088,Ile-de-France
+3017,095091,Ile-de-France
+3018,095116,Ile-de-France
+3019,095127,Ile-de-France
+3020,095134,Ile-de-France
+3021,095142,Ile-de-France
+3022,095149,Ile-de-France
+3023,095176,Ile-de-France
+3024,095177,Ile-de-France
+3025,095183,Ile-de-France
+3026,095197,Ile-de-France
+3027,095199,Ile-de-France
+3028,095203,Ile-de-France
+3029,095205,Ile-de-France
+3030,095210,Ile-de-France
+3031,095211,Ile-de-France
+3032,095218,Ile-de-France
+3033,095219,Ile-de-France
+3034,095229,Ile-de-France
+3035,095241,Ile-de-France
+3036,095250,Ile-de-France
+3037,095252,Ile-de-France
+3038,095256,Ile-de-France
+3039,095257,Ile-de-France
+3040,095268,Ile-de-France
+3041,095270,Ile-de-France
+3042,095277,Ile-de-France
+3043,095280,Ile-de-France
+3044,095288,Ile-de-France
+3045,095306,Ile-de-France
+3046,095313,Ile-de-France
+3047,095323,Ile-de-France
+3048,095328,Ile-de-France
+3049,095351,Ile-de-France
+3050,095352,Ile-de-France
+3051,095353,Ile-de-France
+3052,095355,Ile-de-France
+3053,095369,Ile-de-France
+3054,095370,Ile-de-France
+3055,095388,Ile-de-France
+3056,095392,Ile-de-France
+3057,095394,Ile-de-France
+3058,095409,Ile-de-France
+3059,095424,Ile-de-France
+3060,095426,Ile-de-France
+3061,095427,Ile-de-France
+3062,095428,Ile-de-France
+3063,095430,Ile-de-France
+3064,095452,Ile-de-France
+3065,095476,Ile-de-France
+3066,095480,Ile-de-France
+3067,095487,Ile-de-France
+3068,095488,Ile-de-France
+3069,095491,Ile-de-France
+3070,095500,Ile-de-France
+3071,095509,Ile-de-France
+3072,095523,Ile-de-France
+3073,095527,Ile-de-France
+3074,095539,Ile-de-France
+3075,095555,Ile-de-France
+3076,095563,Ile-de-France
+3077,095572,Ile-de-France
+3078,095574,Ile-de-France
+3079,095580,Ile-de-France
+3080,095582,Ile-de-France
+3081,095585,Ile-de-France
+3082,095594,Ile-de-France
+3083,095598,Ile-de-France
+3084,095604,Ile-de-France
+3085,095607,Ile-de-France
+3086,095612,Ile-de-France
+3087,095628,Ile-de-France
+3088,095637,Ile-de-France
+3089,095641,Ile-de-France
+3090,095651,Ile-de-France
+3091,095652,Ile-de-France
+3092,095675,Ile-de-France
+3093,095678,Ile-de-France
+3094,095680,Ile-de-France
+3095,971127,Guadeloupe
+3096,972201,Martinique
+3097,972205,Martinique
+3098,972206,Martinique
+3099,972207,Martinique
+3100,972209,Martinique
+3101,972210,Martinique
+3102,972212,Martinique
+3103,972213,Martinique
+3104,972217,Martinique
+3105,972222,Martinique
+3106,972224,Martinique
+3107,972226,Martinique
+3108,972227,Martinique
+3109,972229,Martinique
+3110,972230,Martinique
+3111,972231,Martinique
+3112,972232,Martinique
+3113,973302,Guyane
+3114,973304,Guyane
+3115,973307,Guyane
+3116,973309,Guyane
+3117,973311,Guyane
+3118,974408,La Réunion
+3119,974409,La Réunion
+3120,974410,La Réunion
+3121,974411,La Réunion
+3122,974413,La Réunion
+3123,974415,La Réunion
+3124,974416,La Réunion
+3125,974418,La Réunion
